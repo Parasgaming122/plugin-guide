@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta name="applicable-device" content="pc,mobile">
+    <meta name="MobileOptimized" content="width"/>
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <title>最新列表_笔仙阁</title>
+    <meta name="keywords" content="最新列表" />
+    <meta name="description" content="最新列表" />
+    <link href="/skin/default/css/m.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="top">
+    <div class="logo"><a href="/" title="笔仙阁"><img src="/images/logo.png" alt="笔仙阁"></a></div>
+    <div class="search clearfix" id="searchTop">
+    <form  name=search_js1 method="post" action='/e/search/indexpage.php' class="formSearch">
+        <input type="text" name="keyboard" class="search-keyword">
+        <input type="hidden" name="show" value="title">
+        <input type="hidden" name="classid" value="0">
+        <button class="search-submit" type="submit">搜索</button>
+    </form>
+    </div>
+</div>
+<div class="nav" id="navNew">
+    <ul>
+        <li><a href="/">首页</a></li>
+        <li><a href="/dsyq/">都市言情</a></li><li><a href="/wxxz/">武侠修真</a></li><li><a href="/xhqh/">玄幻奇幻</a></li><li><a href="/cyjk/">穿越架空</a></li><li><a href="/khjj/">科幻竞技</a></li><li><a href="/ghxy/">鬼话悬疑</a></li><li><a href="/jsls/">军事历史</a></li><li><a href="/guanchang/">官场商战</a></li><li><a href="/xtfq/">乡土风情</a></li><li><a href="/dmtr/">耽美小说</a></li><li><a href="/trxs/">同人小说</a></li><li><a href="/jqxs/">精品小说</a></li>        <li><a href="/sort/">排行榜</a></li>
+    </ul>
+</div>
+<div class="sNav">
+    <a href="/">首页</a>&nbsp;>&nbsp;最新列表
+</div>
+<div class="hd clearfix">
+    <div class="list listsort">
+  <ul class="clearfix">
+        
+        <li>
+            <div class="cover">
+                <a href="/trxs/24046"><img src="/d/file/trxs/1789787567.jpg" alt="宇智波赤石之旅"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/trxs/24046">宇智波赤石之旅</a></strong>
+                    <div class="tips">
+                       <span><span>作者：臀桥仙人</span>4.79 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/trxs/24046">宇智波赤石与波风水门同期毕业，本该默默无闻地做几年忍者、之后做十几年欺男霸女的警务部队成员，二十几年后，在“灭族之夜”被一波送走……<br />
+然而就在毕业这天，却被异世界的“沉浸式短剧体验平台”盯上了！<br />
+在两个小时里，宇智波赤石当了十年的舔狗，在发现结局居然只是“用我的死来让她追悔莫及”后，怒开写轮眼！<br />
+“卧槽这是什么幻术？”<br />
+“莫非是邪恶的千手老鬼留下的、针对我们宇智波的陷阱？”<br />
+“这么构思的情节，都能呈现在幻术里，邪恶的千手老鬼果然坏的流脓！”<br />
+……<br />
+亲自参加毕业典礼、并致辞的猿飞日斩……<br />
+【</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/cyjk/24045.html"><img src="/d/file/cyjk/1789787498.jpg" alt="铠甲：从欧克瑟到虫族天灾"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/cyjk/24045.html">铠甲：从欧克瑟到虫族天灾</a></strong>
+                    <div class="tips">
+                       <span><span>作者：参商引</span>1.54 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/cyjk/24045.html">白墨穿越异界，经典的孤儿院出身。<br />
+本以为是普通世界，直到考上大学，发现自己的老师，居然是被誉为“欧克瑟之神”的李笑愁。<br />
+稍微留意，又混成端木燕的游戏搭子。<br />
+两边通吃，拿瓦副本，手拿把掐，运气好合体铠甲当英雄，再不济也能一起煮拉面过日子。<br />
+奈何，临毕业之际，孤儿院被平推，老院长”意外“死亡。<br />
+一切的背后，不仅是利益之争，竟然还有影界的势力。<br />
+铠一认血脉，铠二要基因，修罗铠甲门槛更高，四元素铠甲项目待批。<br />
+在这个世界，没有铠甲的普通人，生命脆弱不堪。<br />
+嘲笑巴鲁是虫子，但在他们眼里，普通人何尝不</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/dsyq/24044"><img src="/d/file/dsyq/1789787428.jpg" alt="人在美利坚，系统说我在童话世界"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/dsyq/24044">人在美利坚，系统说我在童话世界</a></strong>
+                    <div class="tips">
+                       <span><span>作者：头号扑街</span>3.10 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/dsyq/24044">（已有一本140W字和两本200W字完本小说，可以放心食用。）<br />
+关键词：【错位系统】，【多女主】，【系统流】<br />
+罗南魂穿阿美莉卡一个猝死的银行职员身上。<br />
+天崩开局，欠了一屁股的债，还要被爱尔兰人威胁。<br />
+就在这种情况下，一个卖打火机的小女孩走到罗南面前。<br />
+“叔叔，你要买打火机吗？”<br />
+【欢迎来到童话世界！】<br />
+什么？兜售打火机的小女孩居然是卖火柴的小女孩？<br />
+什么？抢银行的悍匪居然是四十大盗？<br />
+什么？离家出走的叛逆少女居然是梦游仙境的爱丽丝？<br />
+你这些童话故事是不是有些不对劲？<br />
+第一天，在童话世</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/wxxz/24043"><img src="/d/file/wxxz/1789787366.jpg" alt="大考登仙，从草芥肝成仙官"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/wxxz/24043">大考登仙，从草芥肝成仙官</a></strong>
+                    <div class="tips">
+                       <span><span>作者：耳耳耳耳耳耳耳</span>10.13 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/wxxz/24043">“在大周仙朝，一切伟力归于朝廷。”<br />
+“重要法术，皆须持证上岗；修仙百艺，皆须考级定品。”<br />
+“一纸敕令，可封山河正神。一场大考，定鼎一生命途。”<br />
+“你一茬草芥，安敢奢求登仙？”<br />
+考官执印而视，眸光如炬。<br />
+苏秦身怀熟练度面板，一分努力，一分收获。<br />
+他回头望了眼身后的乡土，平静道：<br />
+“术归于民，官系于土。”<br />
+“不求仙寿，不取权柄。”<br />
+“一茬草芥，登仙之愿。”<br />
+“唯愿此地，岁稔民安。”</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/xhqh/24042"><img src="/d/file/xhqh/1789787982.jpeg" alt="从炼金学徒肝成万法神王"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/xhqh/24042">从炼金学徒肝成万法神王</a></strong>
+                    <div class="tips">
+                       <span><span>作者：不当人zz</span>1.57 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/xhqh/24042">炼制一个九阶魔虫需要多久？马修的回答是：给我十秒！<br />
+连续加班的马修一睁眼，发现自己穿越到了猎人公会的炼金学徒身上。<br />
+好消息：魔虫能让人拥有魔力和特殊能力。<br />
+坏消息：他是一个连饭都吃不起的学徒。<br />
+好在觉醒了“异世录”能够通过亲密接触掠夺对方的标签，获得配方，甚至顷刻炼化野生魔虫。<br />
+【炼金狂魔：随着炼制魔虫次数越多，成功率越高。】<br />
+【重构大师：优化重构已有配方，将其提升一个阶级。】<br />
+【人神共愤：以逆天之法，炼制绝对禁忌魔虫。】<br />
+别人还在按部就班炼制魔虫时，马修早已另辟蹊径开创了他的通天大道！<br /></a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/wxxz/23363"><img src="/d/file/wxxz/1777021957.jpeg" alt="灵宝大道君"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/wxxz/23363">灵宝大道君</a></strong>
+                    <div class="tips">
+                       <span><span>作者：芥子上</span>4.39 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/wxxz/23363">一位孜孜不倦探索万物根源的求道者，却因天地所限，终其一生未能触及真正的超脱之秘。<br />
+机缘流转，携一卷《灵宝天书》，坠入此方仙缘璀璨的寰宇。<br />
+番天印、混元金斗、金蛟剪、斩仙飞刀、五火七禽扇......<br />
+前世神话传说中种种异宝神器，皆可为其驱策。<br />
+身负可汲取万宝精华的“多宝灵体”，却因为“一条仙根”，修行路慢如登天。<br />
+为让未来仙途走的更加顺畅些......<br />
+他便以这孱弱仙根为基，开凿河道；炼那“定海珠”为源，借其“定”之本性，镇住灵机，化涓涓细流为奔涌江河。<br />
+以无上造化，将这条孱弱溪流，开拓成一条</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/wxxz/23794"><img src="/d/file/wxxz/1785377320.jpeg" alt="剑倾大唐，醉卧群芳"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/wxxz/23794">剑倾大唐，醉卧群芳</a></strong>
+                    <div class="tips">
+                       <span><span>作者：在世仙</span>3.07 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/wxxz/23794">姜澈穿越《大唐双龙传》世界，即将饿死之时被小寡妇捡走，并觉醒系统，杀敌就能获得经验。<br />
+经验可用于推演任何人类技能，包括但不限于武学、文化、厨艺、百工等。<br />
+斩杀乱世叛军、魔门妖孽、域外宗师……<br />
+不知不觉间，姜澈已通晓百家、无敌人间。<br />
+他无心逐鹿天下，只愿纵马江湖，品箫赏月。<br />
+洛阳城，他听董淑妮与尚秀芳拨弦弄音；<br />
+飞马牧场，他与商秀珣并肩策马；<br />
+净念禅院，他破开师妃暄的剑心；<br />
+山间野寺，他让祝玉妍红袖添香……<br />
+当乱世走向终局，他也递出了决定天下归属的一剑。<br />
+（PS：《大唐双龙传》同人，没看</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/cyjk/22407.html"><img src="/d/file/cyjk/1753591306.jpg" alt="同时穿越：全是深渊难度"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/cyjk/22407.html">同时穿越：全是深渊难度</a></strong>
+                    <div class="tips">
+                       <span><span>作者：焦糖小可乐</span>11.82 MB</span><span>2026-09-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/cyjk/22407.html">方宇和他的无数个分身穿越了！<br />
+天赋共享，技能共享，能力共享。<br />
+可是......怎么开局都这么惨？<br />
+火影方宇：人在宇智波，距离灭族之夜只剩下十月<br />
+海贼方宇：推进城红莲地狱已关七年，兄弟们加油<br />
+漫威方宇：我也不到我能干嘛，我只能先保证自己不被移民局逮捕<br />
+主神空间方宇：等我熬死养殖队这帮人，请求主神把我状态恢复，我就可以大干一场了！等我！<br />
+DC方宇：天知道我凭什么能跟小丑住对门，阿卡姆人才市场的越狱难度太高了！<br />
+西游方宇：我刚打听完，我待的这儿叫狮驼囯，兄弟们，来生再见......<br />
+龙珠方宇：</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/trxs/24041"><img src="/d/file/trxs/1789691123.jpg" alt="综漫合欢宗： 弟子全是里番女主"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/trxs/24041">综漫合欢宗： 弟子全是里番女主</a></strong>
+                    <div class="tips">
+                       <span><span>作者：春日有迟</span>1.77 MB</span><span>2026-09-18</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/trxs/24041">万界降临，开启全民宗门领主争霸时代！有人绑定晓组织，开局扛米；有人绑定护廷十三队，狂练卍解；有人绑定昊天宗，卖力打铁。<br />
+而陆翊绑定了正道唾弃、魔道不屑、LSP垂涎的合欢宗，从此陷入了甜蜜的烦恼﹣﹣招募弟子全是里番女主，H属性越高，双修资质越强！每天练到合不拢腿，爽到血管膨胀！<br />
+当其他人在血月攻城下瑟瑟发抖，疯狂爆肝求生时。<br />
+陆翊和金发双马尾的傲娇弟子探讨颠鸾倒凤诀的正确姿势。<br />
+"变态！混蛋宗主！"<br />
+叮！与弟子秋月爱莉双修成功，秋月艾莉觉醒合欢圣体，一拳碎山河！<br />
+从缘之空穹妹到夜勤病栋七濑恋</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/xhqh/24040"><img src="/d/file/xhqh/1789691067.jpg" alt="挂机加点，我的剑道无上限！"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/xhqh/24040">挂机加点，我的剑道无上限！</a></strong>
+                    <div class="tips">
+                       <span><span>作者：爱偷懒的星星</span>3.75 MB</span><span>2026-09-18</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/xhqh/24040">【挂机流】+【苟道流】+【剑道文】<br />
+————————<br />
+地图：恶狼山<br />
+推荐等级：1级~10级<br />
+挂机收益：每月9~11点经验，微小概率掉落灵石，灵草，装备……<br />
+是否投入一缕分神，开始挂机？<br />
+————————<br />
+角色最新面板：<br />
+【角色】：林尘<br />
+【年龄】：296/3000<br />
+【神器】：玄天剑（天阶中品）<br />
+【境界】：天武四重：209w/2500w<br />
+【剑道】：剑魂境（小成）<br />
+【神通】：大衍剑经第二层，裂天剑诀入门，万化宝药身，小五行剑阵……<br />
+【规则】：虚之规则第三层次，雷之规则第三层次，空间规</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/cyjk/24039.html"><img src="/d/file/cyjk/1789690989.jpg" alt="华娱：从丢出十八个圣杯开始"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/cyjk/24039.html">华娱：从丢出十八个圣杯开始</a></strong>
+                    <div class="tips">
+                       <span><span>作者：喜欢揉太阳穴</span>1.43 MB</span><span>2026-09-18</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/cyjk/24039.html">顺寄了的林舟重新回到2011年夏天。<br />
+不想再按部就班的他做了个艰难的决定——<br />
+将天赋带进娱乐圈！<br />
+这一切，都要从某部潮汕神话剧的定角现场开始。<br />
+从那以后，娱乐圈的女艺人们，从此多了一个男神。<br />
+若干年后，面对记者追问他和诸多女明星的绯闻，林舟一脸诧异：<br />
+“什么叫绯闻？那叫人脉。”<br />
+”不过是本顶流的来时路罢了。</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/cyjk/24038.html"><img src="/d/file/cyjk/1789690933.jpg" alt="我在诸天如有神助"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/cyjk/24038.html">我在诸天如有神助</a></strong>
+                    <div class="tips">
+                       <span><span>作者：怎么说都对</span>3.81 MB</span><span>2026-09-18</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/cyjk/24038.html">李圣卿穿越到飞狐外传的世界。<br />
+醒来后，他有种感觉，就是顺心顺意，老天爷特别愿意照顾他。<br />
+“我真的是。”圣卿一本正经地对着程灵素道，“师兄我最近顺极了。”<br />
+程灵素捂脸：“这话可不兴说嗷！”<br />
+飞狐之启</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/dsyq/24037"><img src="/d/file/dsyq/1789691465.jpeg" alt="华娱：关键词从发行开始"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/dsyq/24037">华娱：关键词从发行开始</a></strong>
+                    <div class="tips">
+                       <span><span>作者：吴子雄</span>2.72 MB</span><span>2026-09-18</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/dsyq/24037">（导演+系统+商业）叶昭重归2002。系统自带影视剧剧本、制片、导演、剪辑、后期与发行；新手大礼包是发行lv1.发行：你拍摄的任何影视剧，在系统覆盖的范围内，发行商必须全力宣传，尽最大努力覆盖最多院线。发行lv2：亚洲。叶昭选择的主业导演！天仙白月光</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/cyjk/23539.html"><img src="/d/file/cyjk/1780475191.jpeg" alt="穿越魔教教主，但甲子荡魔"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/cyjk/23539.html">穿越魔教教主，但甲子荡魔</a></strong>
+                    <div class="tips">
+                       <span><span>作者：名剑收天</span>4.13 MB</span><span>2026-09-18</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/cyjk/23539.html">“少林达摩功参造化，可谓史上最强；武当张三丰神功盖世，乃是当世最强。那史上最强VS当世最强，会赢吗？”<br />
+“没能让南院大王使出全力，我很抱歉。”<br />
+“江湖上谁人不知，全真七子默契天成，心意相通，更有七剑合璧，纵是五绝也难敌。”<br />
+“那是修炼了无求易诀的麒麟魔，他已不再是魔，而是传说中的超级麒麟侠。”<br />
+“据说崆峒派七伤拳修炼到极致，便能借五脏五行唤来太阳之力，施展出无敌的帝皇极光拳。”<br />
+“什么只能用五次，他妈的金刚不坏神功，我命令你，给我出来！！”<br />
+“当年襄阳一战，那神雕形如高山，双翅遮天蔽日，头顶黄</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/khjj/23294.html"><img src="/d/file/khjj/1775620038.jpeg" alt="星界旅徒"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/khjj/23294.html">星界旅徒</a></strong>
+                    <div class="tips">
+                       <span><span>作者：抄皇</span>6.07 MB</span><span>2026-09-18</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/khjj/23294.html">或名：《偏心二十年，我武道成圣你们哭什么！》<br />
+星海时代，科技飞跃，巨企林立，机甲盛行，基因改造，古武复苏，魔法再现，又有维度位面世界，与主世界开始交织碰撞，星海人类至此开启了大进化时代！<br />
+作为家里面不受重视的老二，在边疆征兵召开之际，全家瞒着陆辰，让他成为边疆征兵的的一员。<br />
+陆辰为求生路，冒险二次觉醒，却觉醒了可进入其他世界的诸天之门！<br />
+星海漫漫，诸天无穷，世界相交，维度互触，人类进化如火如荼。<br />
+陆辰孤身化身星界旅徒，于诸天中寻找己道，化他我为本我，汇万道为圣道。于万界内行走汇聚天赋，于微末间崛</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/trxs/24036"><img src="/d/file/trxs/1789608030.jpeg" alt="东京：被迫拯救怪谈少女！"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/trxs/24036">东京：被迫拯救怪谈少女！</a></strong>
+                    <div class="tips">
+                       <span><span>作者：乘风欲归</span>2.26 MB</span><span>2026-09-17</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/trxs/24036">穿越东京，开局身无分文，神谷光本以为自己最大的敌人是贫穷。<br />
+直到班级点名时。<br />
+川上富江、川又伽椰子、不来方夕莉……<br />
+这才发现这根本不是旮旯给木！<br />
+好消息：这些未来的灭世级大恐怖、无解厉鬼，此刻还只是些带有心理缺陷的问题少女。<br />
+坏消息：为了赚取可怜的生活费，他已经一头扎进了怪谈的漩涡中心。<br />
+于是，为了阻止世界毁灭，也为了保住自己的小命，神谷光被迫走上了怪谈救赎之路。</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/cyjk/24035.html"><img src="/d/file/cyjk/1789607812.jpg" alt="人在华娱，系统说是诸天"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/cyjk/24035.html">人在华娱，系统说是诸天</a></strong>
+                    <div class="tips">
+                       <span><span>作者：刘吃瓜</span>1.54 MB</span><span>2026-09-17</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/cyjk/24035.html">钓鱼佬林深钓到了诸天影视系统，却被传送到1999年《小李飞刀》剧组，他正在饰演荆无命。<br />
+他以为系统只是一时错了，三年后才知道系统会一直错。<br />
+不慌！既然重活了，那就彻底放飞吧。<br />
+只要手中有饵，何处不是鱼塘。<br />
+不管什么“世界”，绝不空军。<br />
+钓冰钓仙钓蜜钓诗，不比钓鱼强？<br />
+但是我都成影帝了，怎么还没去诸天？<br />
+-----------------<br />
+重生时，系统是这样的。<br />
+【宿主激活主线任务，吃瓜剑客。】<br />
+【恭喜，你和阿飞对战，对基础拳脚有所领悟。】<br />
+【支线任务“杏儿打官司”完成，奖励3点自由属</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/wxxz/24034"><img src="/d/file/wxxz/1789607407.jpg" alt="凡人：从乱星海开始选择海克斯"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/wxxz/24034">凡人：从乱星海开始选择海克斯</a></strong>
+                    <div class="tips">
+                       <span><span>作者：结合实际发挥</span>1.70 MB</span><span>2026-09-17</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/wxxz/24034">（后宫+海克斯）<br />
+一朝穿越，林玄降临《凡人修仙传》世界，来到了风云诡谲、妖兽横行的乱星海，意外觉醒海克斯系统。<br />
+突破初期瓶颈，可选白银海克斯；<br />
+突破中期瓶颈，可选黄金海克斯；<br />
+突破后期瓶颈，可选棱彩海克斯！<br />
+【对冲基金】让灵石越攒越多，<br />
+【珠光莲花】令神通威能暴涨<br />
+【升级喽】让修炼不讲道理。<br />
+【坦克引擎】让法相擎天驻地。<br />
+不仅如此，还有许多让他震撼海克斯。<br />
+什么叫收了元瑶和妍丽还有羁绊海克斯。<br />
+系统，你可是害苦了我啊。<br />
+……<br />
+韩立靠小绿瓶，而他靠的是每次突破后的那一声<br />
+“请选择</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/dsyq/24033"><img src="/d/file/dsyq/1789608135.jpeg" alt="宿舍求生，从校花外卖上门开始"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/dsyq/24033">宿舍求生，从校花外卖上门开始</a></strong>
+                    <div class="tips">
+                       <span><span>作者：江河湖雨海</span>1.90 MB</span><span>2026-09-17</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/dsyq/24033">【塔防】+【多女主】+【求生】+【词条三选一】<br />
+苏宇只是点个外卖的功夫，整栋宿舍楼便集体穿越，进入了宿舍求生游戏，这里血雾弥漫，怪物横行，唯一的安全屋只有自己的宿舍。<br />
+而他觉醒SSS级天赋梦魇之主，每日根据自身舒适度固定产出梦魇币，可无视限制直接升级设施，每次升级还可选择词条强化。<br />
+本以为这已是极限，但很快，苏宇便意识到原来校花女神才是提升舒适度的最佳挂件。<br />
+为了提升梦魇币的产出效果，他不得不广撒爱心，收留可怜的各路女神：黑长直学姐、双马尾学妹、御姐美女老师、异界冰雪女王……<br />
+当其他人还在为了一</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/xhqh/24032"><img src="/d/file/xhqh/1789608182.jpeg" alt="星河之主"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/xhqh/24032">星河之主</a></strong>
+                    <div class="tips">
+                       <span><span>作者：烽仙</span>4.79 MB</span><span>2026-09-17</span>
+                    </div>
+                </div>
+                <div class="descript">
+                   <a href="/xhqh/24032">旧历1986年，大战后的人类首次登陆月星，成为新历开端。<br />
+新历8年，月星人口超过千万，人类诞生第一位星空武者，同年，月星人类开始探索‘原初星’，并建立起第一座星空基地。<br />
+这是新月和旧土争锋、生命进化不止的未来世界。<br />
+……新历60年，蓝星旧土，一所武道大专。<br />
+“月星大开发计划，武道生三不限安保岗，报考比2622:1……。”即将大四的武道生方羽，眉头紧锁，看着屏幕上每天不断刷新的人数：“我可是学校十大优秀大专生，只要考上，工作三十年，就够在月星买房的首付了。”<br />
+“我可是武者，寿命过百年，三十年换套房</a>
+                </div>
+            </div>
+        </li>
+        
+      
+        </ul>
+        <div class="page">
+            &nbsp;<b>1</b>&nbsp;<a href="/newest/index_2.html">2</a>&nbsp;<a href="/newest/index_3.html">3</a>&nbsp;<a href="/newest/index_4.html">4</a>&nbsp;<a href="/newest/index_5.html">5</a>&nbsp;<a href="/newest/index_6.html">6</a>&nbsp;<a href="/newest/index_7.html">7</a>&nbsp;<a href="/newest/index_8.html">8</a>&nbsp;<a href="/newest/index_9.html">9</a>&nbsp;<a href="/newest/index_10.html">10</a>&nbsp;<a href="/newest/index_2.html">下一页</a>&nbsp;<a href="/newest/index_10.html">尾页</a>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <a href="http://www.bxg123.cc">笔仙阁</a> 电子书共享平台
+</div>
+<script src="/skin/js/Footer.js"></script>
+<script src="/skin/js/tongji.js"></script>
+</body>
+</html>

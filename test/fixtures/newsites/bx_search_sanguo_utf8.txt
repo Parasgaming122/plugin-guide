@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <title>高级搜索 三国 - 笔仙阁</title>
+    <meta name="keywords" content="高级搜索 三国" />
+    <meta name="description" content="高级搜索 三国" />
+    <link href="/skin/default/css/m.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+
+<div class="top">
+    <div class="logo"><a href="/" title="笔仙阁"><img src="/images/logo.png" alt="笔仙阁"></a></div>
+    <div class="search clearfix" id="searchTop">
+    <form  name=search_js1 method="post" action='/e/search/indexpage.php' class="formSearch">
+        <input type="text" name="keyboard" class="search-keyword">
+        <input type="hidden" name="show" value="title">
+        <input type="hidden" name="classid" value="0">
+        <button class="search-submit" type="submit">搜索</button>
+    </form>
+    </div>
+</div>
+<div class="nav" id="navNew">
+    <ul>
+        <li><a href="/">首页</a></li>
+        <li><a href="/dsyq/">都市言情</a></li><li><a href="/wxxz/">武侠修真</a></li><li><a href="/xhqh/">玄幻奇幻</a></li><li><a href="/cyjk/">穿越架空</a></li><li><a href="/khjj/">科幻竞技</a></li><li><a href="/ghxy/">鬼话悬疑</a></li><li><a href="/jsls/">军事历史</a></li><li><a href="/guanchang/">官场商战</a></li><li><a href="/xtfq/">乡土风情</a></li><li><a href="/dmtr/">耽美小说</a></li><li><a href="/trxs/">同人小说</a></li><li><a href="/jqxs/">精品小说</a></li>        <li><a href="/sort/">排行榜</a></li>
+    </ul>
+</div>
+
+
+<div class="sNav">
+    <span>当前位置：</span><a href='/'>首页</a>&nbsp;>&nbsp;高级搜索
+</div>
+
+<div class="hd clearfix">
+    <div class="list">
+  <ul class="clearfix">
+        
+        <li>
+            <div class="cover">
+                <a href="/trxs/24024"><img src="/d/file/trxs/1789438380.jpeg" alt="从新三国归来的菜月昴"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/trxs/24024">从新三国归来的菜月昴</a></strong>
+                    <div class="tips">
+                        <span>大小：2.09 MB</span><span>时间：2026-09-15</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/trxs/24024">菜月昴又一次穿越了！<br />
+在罗姆爷的赃物库和名叫莎提拉的白发女子遭到不知名的敌人袭击之后。<br />
+菜月昴惊讶的发现自己没有死亡，而是来到了三国时期的古中国。<br />
+不过这个世界似乎不太正经。<br />
+什么</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/23968"><img src="/d/file/jsls/1788502696.jpeg" alt="三国：每日结算我助刘备三兴季汉"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/23968">三国：每日结算我助刘备三兴季汉</a></strong>
+                    <div class="tips">
+                        <span>大小：2.03 MB</span><span>时间：2026-09-04</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/23968">东汉初平四年，<br />
+曹操率领大军东征徐州，为父复仇。<br />
+陆雍穿越成徐州一寒门文士，成为刘备军师。<br />
+他觉醒了每日结算系统，<br />
+可以根据每日所作所为，结算成不同评价，以获得各种属性、天赋词条等</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/19346"><img src="/d/file/jsls/1686885627.jpg" alt="三国：我，曹家长子，大汉慈父！"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/19346">三国：我，曹家长子，大汉慈父！</a></strong>
+                    <div class="tips">
+                        <span>大小：9.01 MB</span><span>时间：2026-09-02</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/19346">曹操：“劝董卓收义子，此为忠厚；<br />
+请袁术登帝位，这是老实；<br />
+收留天下美丽女子，可称善良；<br />
+时常帮助刘备搬家，乐于助人；<br />
+替天子管理国家，处理一切大事，免其劳累，这是忠心耿耿。<br />
+这么</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/23922"><img src="/d/file/jsls/1787628117.jpeg" alt="三国：截胡关张，我真是皇叔！"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/23922">三国：截胡关张，我真是皇叔！</a></strong>
+                    <div class="tips">
+                        <span>大小：2.55 MB</span><span>时间：2026-08-25</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/23922">多年后，刘骥回首波澜壮阔的一生，发现自己的兄弟是截胡的，谋士是截胡的，武将是截胡的，就连女人都是截胡的……&quot;哎。&quot;<br />
+&quot;朕这一生到底什么东西是自己的啊！&quot;<br />
+&quot;陛下，这江山是您的啊！&quot;</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/23756"><img src="/d/file/jsls/1784771807.jpg" alt="三国：蟒雀吞龙，开局娶了邹氏"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/23756">三国：蟒雀吞龙，开局娶了邹氏</a></strong>
+                    <div class="tips">
+                        <span>大小：9.69 MB</span><span>时间：2026-07-23</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/23756">姜耀魂穿三国，本以为能够大展宏图，一匡天下！<br />
+谁知道刚睁眼，就发现眼前摆着一道送命题！<br />
+他的主公张济刚刚身死，而他却起兵谋反，在张绣前来继承的路上，夺了兵权。<br />
+不仅如此，他还娶了刚</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/20261"><img src="/d/file/jsls/1704609003.jpg" alt="三国：我靠系统漏洞艰难求生"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/20261">三国：我靠系统漏洞艰难求生</a></strong>
+                    <div class="tips">
+                        <span>大小：2.05 MB</span><span>时间：2026-07-04</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/20261"> 种平穿越三国十二年，终于绑定了谋士系统，只要献策成功就可以获得系统奖励，然而身为废材大学牲的他却痛苦地发现自己根本没有那么高的智商，于是种平另辟蹊径，开始钻系统的空子：“原来只要计</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/23489"><img src="/d/file/jsls/1779508790.jpeg" alt="三国：开局硬接巅峰关二爷一刀"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/23489">三国：开局硬接巅峰关二爷一刀</a></strong>
+                    <div class="tips">
+                        <span>大小：4.85 MB</span><span>时间：2026-05-23</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/23489">穿越三国，我成了河间张津，张郃的族弟。<br />
+建安五年，官渡之战。<br />
+我被迫顶替颜良，领一万兵马攻袭白马，成了曹操声东击西剧本中的必死炮灰。<br />
+但当那道赤色身影奔袭而来，当青龙偃月刀迎面斩下</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/22805"><img src="/d/file/jsls/1763868608.jpg" alt="三国：开局被曹操抓去当女婿"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/22805">三国：开局被曹操抓去当女婿</a></strong>
+                    <div class="tips">
+                        <span>大小：4.17 MB</span><span>时间：2026-03-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/22805">【万字稳定跟新，放心阅读】穿越汉末，成为刘氏宗室后裔。<br />
+刘绣本想走刘备道路，三造大汉，称宗道祖！<br />
+奈何觉醒“躺平系统”，选择躺平，却又被曹操盯上，抓去当女婿！<br />
+陶谦：不是，曹嵩刚死</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/23193"><img src="/d/file/jsls/1773558999.jpeg" alt="三国，太平教主"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/23193">三国，太平教主</a></strong>
+                    <div class="tips">
+                        <span>大小：4.12 MB</span><span>时间：2026-03-15</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/23193">南华大学生周凡，往山区支教，路上遇白蟒惊吓，滚下山坡，摔伤脚踝。莫名穿越东汉，巧遇张角三兄弟。<br />
+没办法，周凡只好跟着张角三兄弟，在太平教中养伤。<br />
+原本，周凡只想在教中当个狗头军师，</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/23171"><img src="/d/file/jsls/1772941989.jpeg" alt="三国：从樵夫到季汉上将"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/23171">三国：从樵夫到季汉上将</a></strong>
+                    <div class="tips">
+                        <span>大小：4.77 MB</span><span>时间：2026-03-08</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/23171">一觉醒来，前世当了四十年守村人的牛憨，成了东汉涿郡的同名樵夫。<br />
+不过他没感觉有什么不同，依旧每日砍柴，修家具，帮助乡邻盖房。<br />
+直到十八年后。<br />
+桃园深处，三位豪杰正欲结拜，誓言荡气回</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/23141"><img src="/d/file/jsls/1772259922.jpg" alt="三国：从焚尸卒捡属性到黄天当立"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/23141">三国：从焚尸卒捡属性到黄天当立</a></strong>
+                    <div class="tips">
+                        <span>大小：3.32 MB</span><span>时间：2026-02-28</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/23141">刘峥一睁眼，竟成了黄巾之乱后的焚尸降卒！<br />
+朔风刺骨，尸坑如渊，唯一的亲人小妹瑟瑟发抖。<br />
+汉军鞭影下，搬运冻僵尸体就是他们的活路。<br />
+绝境中，他触摸尸体，竟能汲取属性！<br />
+力量 1！体质 1</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/20226"><img src="/d/file/jsls/1703912573.jpg" alt="三国：季汉刘璋"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/20226">三国：季汉刘璋</a></strong>
+                    <div class="tips">
+                        <span>大小：7.85 MB</span><span>时间：2026-01-23</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/20226">　穿越为东汉末年的皇叔，但是没有一双大耳朵，也没有到膝盖的双手，只因我是刘璋，刘季玉……<br />
+　　作为大汉的皇叔，刘璋决心开创属于自己的季汉。<br />
+　　一个不一样的季汉，没有三国鼎立，没有</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/22129"><img src="/d/file/jsls/1745403262.jpg" alt="三国：季汉兵仙从奇袭襄阳开始"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/22129">三国：季汉兵仙从奇袭襄阳开始</a></strong>
+                    <div class="tips">
+                        <span>大小：6.28 MB</span><span>时间：2026-01-07</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/22129">“玄德啊，兴复汉室的胜负手在襄阳，咱必须拿下！”<br />
+一朝穿越汉末，萧和原想投身曹营却被拒之门外，机缘巧合下被关银屏捡回樊城。<br />
+身为一名三无黑户，萧和果断决定抱紧刘备大腿，捞一张长期饭</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/22550"><img src="/d/file/jsls/1757499148.jpg" alt="三国：朕，袁术，大汉忠良"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/22550">三国：朕，袁术，大汉忠良</a></strong>
+                    <div class="tips">
+                        <span>大小：3.64 MB</span><span>时间：2025-12-10</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/22550">“袁公啊，陛下听说您得了传国玉玺，不知可有此事？”<br />
+“朕没有！休得胡言，我看朝中定有奸佞进谗言。”<br />
+“真的没有？”<br />
+“君无戏言！”<br />
+“袁公，您这样，我很难办啊。”<br />
+袁术紧握使臣双手</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/22839"><img src="/d/file/jsls/1765007125.jpg" alt="三国：从淮南开始制霸天下"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/22839">三国：从淮南开始制霸天下</a></strong>
+                    <div class="tips">
+                        <span>大小：4.47 MB</span><span>时间：2025-12-06</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/22839">穿越到汉末的淮南郡下蔡县，在袁术治下，拥有金手指【名将】。<br />
+开局就遇见山贼大帅雷薄麾下在集市肆意杀戮。<br />
+底层老百姓在这汉末，根本就是待宰的羔羊。<br />
+顾青选择仰仗自己才学，从雷薄入手，</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/22813"><img src="/d/file/jsls/1764144537.jpg" alt="眼瞎五年：曹魏一统三国了"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/22813">眼瞎五年：曹魏一统三国了</a></strong>
+                    <div class="tips">
+                        <span>大小：4.54 MB</span><span>时间：2025-11-26</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/22813">叶庆坐的飞机失事，从天上掉下来侥幸存活，因为眼瞎，便将意外救下的的曹老板当成了封建闭塞的村长。<br />
+与此同时，超级支教系统觉醒。为报恩恢复视力，于是决心留守支教改变这里。<br />
+从物理到化学</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/khjj/22526.html"><img src="/d/file/khjj/1756888712.jpg" alt="LOL：我觉醒了三国杀系统"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/khjj/22526.html">LOL：我觉醒了三国杀系统</a></strong>
+                    <div class="tips">
+                        <span>大小：2.19 MB</span><span>时间：2025-09-03</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/khjj/22526.html">重生2015年的苏醒，靠着未来的记忆成功当上了WE青训的战术分析师，每天剪剪视频，做做新英雄教学，调教一下尚未成名的TheShy和Khan，本以为就要这样度过无趣而多金的一生。<br />
+然而，挂来了？<br />
+什</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/khjj/19618.html"><img src="/d/file/khjj/1692326686.jpg" alt="三国之铜雀铸天庭"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/khjj/19618.html">三国之铜雀铸天庭</a></strong>
+                    <div class="tips">
+                        <span>大小：6.71 MB</span><span>时间：2025-07-25</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/khjj/19618.html">《王朝》横空出世，林寒在新手抽奖中，获得特殊唯一建筑【铜雀台】，从此开启传奇的一生。<br />
+张角：此子器宇不凡，有潜龙之姿，可愿拜我为师？<br />
+曹操：寒兄乃是妙人也。<br />
+刘备：无耻小儿，屡坏吾</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/22296"><img src="/d/file/jsls/1750498226.jpg" alt="双穿：这个三国有龙气"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/22296">双穿：这个三国有龙气</a></strong>
+                    <div class="tips">
+                        <span>大小：2.26 MB</span><span>时间：2025-07-08</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/22296">获得时空门和随身空间，可以往返三国世界。<br />
+但这个三国有龙气。<br />
+龙气能施展秘术。<br />
+所以，吕布能凝聚无双魔戟，分山裂海。<br />
+诸葛亮能布置神鬼八阵图，阻挡百万大军。<br />
+曹操能召唤天王圣体，大</a>
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="cover">
+                <a href="/jsls/22208"><img src="/d/file/jsls/1747626556.jpg" alt="三国：我，真皇叔，三兴大汉"></a>
+            </div>
+            <div class="info">
+                <div class="title">
+                    <strong><a href="/jsls/22208">三国：我，真皇叔，三兴大汉</a></strong>
+                    <div class="tips">
+                        <span>大小：3.94 MB</span><span>时间：2025-05-19</span>
+                    </div>
+                </div>
+                <div class="descript">
+                    <a href="/jsls/22208">【三国】【无敌】【争霸】【真皇叔】&amp;#8203;【系统】<br />
+众朝皆以衰而亡，独汉以强而亡？<br />
+四百载王朝遍地烽燧，万物凋敝，百姓哭嚎。<br />
+十三州吃的遍地白骨，道路两旁的沃野都埋葬不下。<br />
+有人纵横</a>
+                </div>
+            </div>
+        </li>
+        
+      
+        </ul>
+        <div class="page">
+           <a title="总数">&nbsp;<b>84</b> </a>&nbsp;&nbsp;&nbsp;<b>1</b>&nbsp;<a href="/e/search/result/index.php?page=1&amp;searchid=7735027">2</a>&nbsp;<a href="/e/search/result/index.php?page=2&amp;searchid=7735027">3</a>&nbsp;<a href="/e/search/result/index.php?page=3&amp;searchid=7735027">4</a>&nbsp;<a href="/e/search/result/index.php?page=4&amp;searchid=7735027">5</a>&nbsp;<a href="/e/search/result/index.php?page=1&amp;searchid=7735027">下一页</a>&nbsp;<a href="/e/search/result/index.php?page=4&amp;searchid=7735027">尾页</a>
+        </div>
+    </div>
+   
+</div>
+
+<div class="footer">
+    <a href="http://www.bxg123.cc">笔仙阁</a> 电子书共享平台
+</div>
+<script src="/skin/js/Footer.js"></script>
+<script src="/skin/js/tongji.js"></script>
+</body>
+</html>

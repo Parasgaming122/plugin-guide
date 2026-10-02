@@ -1,0 +1,665 @@
+
+-- ═══════════════════════════════════════════════════════════════════════════
+-- List-page parsing + catalog browse
+-- ═══════════════════════════════════════════════════════════════════════════
+-- /quanben/fenlei/, /fenlei/{slug}/ and /search/ share the card markup:
+--   table.list-item
+--     td a img                     → cover (//p.69shuba.tw/…)
+--     td div.article a (1st)       → title + book URL (search pages wrap
+--                                    match terms in .highlight spans —
+--                                    text concatenation merges them)
+--     p.fs12.gray span.mr15        → "作者:X" or "作者:X　N萬字"
+--     a span.fs12.gray             → synopsis snippet
+-- Pager (div.index-container): prev is a disabled SPAN on page 1 (an <a> on
+-- later pages), next is ALWAYS an <a> whose text is 下一页 — hasNext =
+-- such a link exists. The select#indexselect options carry page paths.
+
+local function parseListCards(body)
+  local items = {}
+  if not body then return items end
+  for _, card in ipairs(html_select(body, "table.list-item")) do
+    local img = html_attr(card.html, "img", "src")
+    local titleEl = html_select_first(card.html, "div.article a")
+    local href = titleEl and titleEl.href or ""
+    if titleEl and href and href ~= "" then
+      local title = string_clean(titleEl.text or "")
+      if title ~= "" then
+        local bid = tonumber(string.match(absUrl(href), "/book/(%d+)"))
+        items[#items + 1] = {
+          title = title,
+          url   = absUrl(href),
+          cover = coverFromImg(img, bid)
+        }
+      end
+    end
+  end
+  return items
+end
+
+-- hasNext: an <a> in the pager whose text is 下一页 (Simplified — the
+-- site's pager literals are Simplified even on Traditional pages).
+local function listHasNext(body)
+  if not body then return false end
+  for _, a in ipairs(html_select(body, "div.index-container a")) do
+    local t = a.text or ""
+    if string.find(t, "下一页") or string.find(t, "下一頁") then
+      local href = a.href or ""
+      if string.find(href, "javascript") == nil then return true end
+    end
+  end
+  return false
+end
+
+local function translateCatalogItems(items)
+  if not trActive() or #items == 0 then return items end
+  local titles = {}
+  for i = 1, #items do titles[i] = items[i].title end
+  local tr = translateBatch(titles)
+  for i = 1, #items do items[i].title = tr[i] end
+  return items
+end
+
+local function unreachableError(what)
+  if type(show_error) == "function" then
+    show_error("69shuba.tw unreachable",
+      "Could not load " .. what .. " from 69shuba.tw (network issue or the " ..
+      "site's human-verification wall).\n\nIf a verification page appears, " ..
+      "tick the \"I'm not a robot\" box once — it usually passes on real " ..
+      "devices — then retry.")
+  end
+end
+
+-- ── Catalog ──────────────────────────────────────────────────────────────────
+-- Default surface: the 全部小說 ranking /quanben/fenlei/{N}/ (1-based in
+-- the URL; the app's index is 0-based). Filtered: /fenlei/{slug}/{N}/.
+
+function getCatalogList(index)
+  local path = "/quanben/fenlei/"
+  if index > 0 then path = "/quanben/fenlei/" .. tostring(index + 1) .. "/" end
+  local r = httpGetPage(path)
+  if not (r and r.success) then
+    unreachableError("the novel list")
+    return { items = {}, hasNext = false }
+  end
+  local items = parseListCards(r.body)
+  translateCatalogItems(items)
+  return { items = items, hasNext = listHasNext(r.body) }
+end
+
+function getCatalogFiltered(index, filters)
+  local cat = filters and filters.category
+  local path
+  if cat and cat ~= "" and cat ~= "all" then
+    if cat == "quanben" then
+      path = "/quanben/fenlei/" .. tostring(index + 1) .. "/"
+    else
+      path = "/fenlei/" .. cat .. "/" .. tostring(index + 1) .. "/"
+    end
+  else
+    path = "/quanben/fenlei/"
+    if index > 0 then path = "/quanben/fenlei/" .. tostring(index + 1) .. "/" end
+  end
+  local r = httpGetPage(path)
+  if not (r and r.success) then
+    unreachableError("the category")
+    return { items = {}, hasNext = false }
+  end
+  local items = parseListCards(r.body)
+  translateCatalogItems(items)
+  return { items = items, hasNext = listHasNext(r.body) }
+end
+
+function getFilterList()
+  local catOptions = {
+    { value = "all",     label = flLabel("All Novels (全部小說)", "全部小說") },
+    { value = "quanben", label = flLabel("Completed Ranking (完結)", "完結") }
+  }
+  for _, c in ipairs(CATEGORIES) do
+    catOptions[#catOptions + 1] = { value = c.value, label = flLabel(c.en, c.zh) }
+  end
+  return {
+    {
+      type = "select",
+      key = "category",
+      label = "Category (分類)",
+      options = catOptions
+    }
+  }
+end
+
+-- ═══════════════════════════════════════════════════════════════════════════
+-- Search — GET /search/?searchkey={q}&searchtype=all (page 1, live-verified)
+-- and /search/{N}?searchkey={q} (page N, from the pager's own URLs).
+-- ═══════════════════════════════════════════════════════════════════════════
+-- In Translator mode a non-Chinese query is first translated to Traditional
+-- Chinese (the site indexes zh-TW titles); when that finds nothing the
+-- Simplified variant is tried once — titles on this site may be either.
+
+function getCatalogSearch(index, query)
+  if type(query) ~= "string" or query == "" then
+    return { items = {}, hasNext = false }
+  end
+
+  local q = query
+  if not hasCJK(q) then
+    local tw = translateQueryToZh(q, "zh-TW")
+    if tw then q = tw end
+  end
+
+  local function searchUrl(index, keyword)
+    if index <= 0 then
+      return SITE .. "/search/?searchkey=" .. url_encode(keyword) .. "&searchtype=all"
+    end
+    -- app index is 0-based; the site's page-N URL is 1-based (/search/2?…)
+    return SITE .. "/search/" .. tostring(index + 1) .. "?searchkey=" .. url_encode(keyword)
+  end
+
+  local r = http_get(searchUrl(index, q), {
+    headers = {
+      ["Referer"] = SITE .. "/",
+      ["Accept"]  = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+    }
+  })
+  if not (r and r.success) then
+    unreachableError("the search")
+    return { items = {}, hasNext = false }
+  end
+
+  local items = parseListCards(r.body)
+
+  -- zh-CN retry (translated queries that matched nothing, first page only)
+  if index == 0 and q ~= query and #items == 0 then
+    local cn = translateQueryToZh(query, "zh-CN")
+    if cn and cn ~= q then
+      local r2 = http_get(searchUrl(0, cn), {
+        headers = { ["Referer"] = SITE .. "/", ["Accept"] = "text/html,*/*;q=0.8" }
+      })
+      if r2 and r2.success then
+        items = parseListCards(r2.body)
+        r = r2
+      end
+    end
+  end
+
+  translateCatalogItems(items)
+  return { items = items, hasNext = listHasNext(r.body) }
+end
+
+-- ═══════════════════════════════════════════════════════════════════════════
+-- Chapter catalog — layout-agnostic parsing + persistent page cache
+-- ═══════════════════════════════════════════════════════════════════════════
+-- The /indexlist/ markup could not be captured (WAF-challenged from every
+-- research route), so the parser makes NO assumption about containers: it
+-- collects EVERY anchor whose href matches /read/{bookId}/{cid} — the only
+-- chapter-URL shape on the site — dedupes by cid and sorts by cid.
+-- Reading order == ascending cid (live-verified: ch1 890315 → ch2 890316 →
+-- … → ch450 4001259, and the next-chapter chain follows it). This survives
+-- ul / table / div layouts alike and ignores recommendations for other
+-- books (different book id in the URL).
+
+-- Collect chapters from an /indexlist/ page. Returns an array of
+-- { cid = n, title = s, url = s } sorted by cid.
+local function parseTocChapters(body, bookId)
+  local seen, out = {}, {}
+  if not body or not bookId then return out end
+  local pat = "/read/" .. tostring(bookId) .. "/(%d+)"
+  for _, a in ipairs(html_select(body, "a")) do
+    local href = a.href or ""
+    local cidStr = string.match(href, pat)
+    if cidStr then
+      local cid = tonumber(cidStr)
+      if cid and not seen[cid] then
+        local title = string_clean(a.text or "")
+        if title == "" then title = string_clean(a.title or "") end
+        if title ~= "" then
+          seen[cid] = true
+          out[#out + 1] = { cid = cid, title = title, url = absUrl(href) }
+        end
+      end
+    end
+  end
+  table.sort(out, function(x, y) return x.cid < y.cid end)
+  return out
+end
+
+-- totalPages from the pager's select options (value = "/indexlist/{id}/{N}/"
+-- — the site-wide pager shape; bare numbers accepted too).
+local function tocTotalPages(body, bookId)
+  local maxp = 1
+  for _, opt in ipairs(html_select(body, "select#indexselect option")) do
+    local ok, v = pcall(function() return opt.attr("value") end)
+    if ok and type(v) == "string" and v ~= "" then
+      local n = tonumber(string.match(v, "/(%d+)/?$"))
+      if n == nil then n = tonumber(string.match(v, "^(%d+)$")) end
+      if n and n > maxp then maxp = n end
+    end
+  end
+  return maxp
+end
+
+-- The page-N URL template, learned from the pager's 下一页 link:
+--   "/indexlist/342441/2/" → base "/indexlist/342441" → page N = base.."/N/"
+local function tocPageBase(body)
+  for _, a in ipairs(html_select(body, "div.index-container a")) do
+    local t = a.text or ""
+    if string.find(t, "下一页") or string.find(t, "下一頁") then
+      local href = a.href or ""
+      local base = string.match(href, "^(.*)/%d+/?$")
+      if base and string.find(base, "/indexlist/", 1, true) then
+        return base
+      end
+    end
+  end
+  return nil
+end
+
+-- ── Persistent TOC page cache (set_preference) ─────────────────────────────
+-- One preference per book: "s69tw_toc_<id>" =
+--   "1|<totalPages>|<urlBase>|<page>\031<title>\031<url>\030… \029<page>\031…"
+-- ( \029 group sep = page, \030 record sep = chapter, \031 unit sep = field;
+--   urlBase may be empty — falls back to the /indexlist/{id}/ guess ).
+-- Interior pages (page < totalPages) are immutable — the site only APPENDS
+-- chapters — so they are served without network. The last known page and
+-- beyond are always fetched fresh. On failure a stale cached copy is served
+-- (a readable stale TOC beats an error screen), and progress accumulates.
+
+local TOC_PREF_PREFIX = "s69tw_toc_"
+local TOC_PREF_LRU    = "s69tw_toc_lru"
+local TOC_MAX_BOOKS   = 5      -- LRU cap (cached books)
+local TOC_MAX_BYTES   = 100000 -- per-book serialization cap
+
+local function tocPrefKey(bookUrl)
+  local id = bookIdFromUrl(bookUrl)
+  return id and (TOC_PREF_PREFIX .. id) or nil
+end
+
+local function tocIndexlistPath(bookUrl)
+  local id = bookIdFromUrl(bookUrl)
+  return id and ("/indexlist/" .. id .. "/") or nil
+end
+
+local function tocCacheLoad(bookUrl)
+  local key = tocPrefKey(bookUrl)
+  if not key then return nil end
+  local ok, v = pcall(get_preference, key)
+  if not (ok and type(v) == "string" and v ~= "") then return nil end
+  local ver, tpStr, base, data = string.match(v, "^(%d+)|(%d+)|([^|]*)|(.*)$")
+  if not ver then return nil end
+  local entry = { totalPages = tonumber(tpStr) or 1, urlBase = base, pages = {} }
+  for block in string.gmatch(data, "[^\029]+") do
+    local pStr, recs = string.match(block, "^(%d+)\031(.*)$")
+    local p = tonumber(pStr)
+    if p then
+      local chs = {}
+      for rec in string.gmatch(recs, "[^\030]+") do
+        local t, u = string.match(rec, "^(.*)\031(.*)$")
+        if t and u and t ~= "" and u ~= "" then
+          chs[#chs + 1] = { title = t, url = u }
+        end
+      end
+      entry.pages[p] = chs
+    end
+  end
+  return entry
+end
+
+-- Keep only pages that stay interior under the NEW page count; remember the
+-- freshest urlBase seen.
+local function tocMerge(entry, page, totalPages, chapters, urlBase)
+  local old = entry or { totalPages = totalPages, urlBase = urlBase or "", pages = {} }
+  local keep = math.min(old.totalPages or 1, totalPages) - 1
+  local pages = {}
+  for p, chs in pairs(old.pages or {}) do
+    if p <= keep then pages[p] = chs end
+  end
+  pages[page] = chapters
+  return {
+    totalPages = totalPages,
+    urlBase    = urlBase or old.urlBase or "",
+    pages      = pages
+  }
+end
+
+local function tocCacheSave(bookUrl, entry)
+  local key = tocPrefKey(bookUrl)
+  if not key then return end
+  local pnums = {}
+  for p in pairs(entry.pages or {}) do pnums[#pnums + 1] = p end
+  table.sort(pnums)
+  local blocks = {}
+  for _, p in ipairs(pnums) do
+    local recs = {}
+    for _, ch in ipairs(entry.pages[p]) do
+      recs[#recs + 1] = ch.title .. "\031" .. ch.url
+    end
+    blocks[#blocks + 1] = tostring(p) .. "\031" .. table.concat(recs, "\030")
+  end
+  local data = table.concat(blocks, "\029")
+  if #data > TOC_MAX_BYTES then return end -- oversized: skip persisting
+  local ok = pcall(set_preference, key,
+    "1|" .. tostring(entry.totalPages or 1) .. "|" .. (entry.urlBase or "") .. "|" .. data)
+  if not ok then return end
+  -- LRU bookkeeping: evict least-recently-used books beyond the cap
+  local id = string.sub(key, #TOC_PREF_PREFIX + 1)
+  local okL, lru = pcall(get_preference, TOC_PREF_LRU)
+  local order = {}
+  if okL and type(lru) == "string" and lru ~= "" then
+    for v in string.gmatch(lru, "[^,]+") do order[#order + 1] = v end
+  end
+  local keep = { id }
+  for _, v in ipairs(order) do
+    if v ~= id and #keep < TOC_MAX_BOOKS then keep[#keep + 1] = v end
+  end
+  for _, v in ipairs(order) do
+    local kept = false
+    for _, k in ipairs(keep) do
+      if k == v then kept = true; break end
+    end
+    if not kept then pcall(set_preference, TOC_PREF_PREFIX .. v, "") end
+  end
+  pcall(set_preference, TOC_PREF_LRU, table.concat(keep, ","))
+end
+
+-- Fetch one TOC page: persistent-cache fast path for immutable interior
+-- pages, fresh fetch otherwise, stale cached copy as a last resort.
+-- Returns (chapters, totalPages, urlBase) or (nil, nil, nil).
+local function tocFetchPage(bookUrl, page)
+  local entry = tocCacheLoad(bookUrl)
+
+  -- interior page below the cached watermark: serve without network
+  if page > 1 and entry and page < entry.totalPages and entry.pages[page] then
+    return entry.pages[page], entry.totalPages, entry.urlBase
+  end
+
+  local body = nil
+  local path = tocIndexlistPath(bookUrl)
+  if path then
+    if page == 1 then
+      -- fetchPageCached (60s TTL): the engine calls parsePage(1) twice on a
+      -- first load — the cache makes the second free.
+      local r = fetchPageCached(SITE .. path)
+      if r and r.success then body = r.body end
+    else
+      -- learned template first, site-pattern guess as fallback
+      local base = entry and entry.urlBase and entry.urlBase ~= "" and entry.urlBase or nil
+      local p2
+      if base then p2 = base .. "/" .. tostring(page) .. "/" end
+      local tries = {}
+      if p2 and p2 ~= path .. tostring(page) .. "/" then tries[#tries + 1] = p2 end
+      tries[#tries + 1] = path .. tostring(page) .. "/"
+      for _, u in ipairs(tries) do
+        local r = httpGetPage(u)
+        if r and r.success then body = r.body; break end
+      end
+    end
+  end
+
+  if not body then
+    if entry and entry.pages[page] then
+      return entry.pages[page], entry.totalPages, entry.urlBase -- stale beats nothing
+    end
+    return nil, nil, nil
+  end
+
+  local bookId = bookIdFromUrl(bookUrl)
+  local chapters = parseTocChapters(body, bookId)
+  if #chapters == 0 then
+    -- a page without chapter anchors is a soft block / error page
+    if entry and entry.pages[page] then
+      return entry.pages[page], entry.totalPages, entry.urlBase
+    end
+    return nil, nil, nil
+  end
+  local totalPages = tocTotalPages(body, bookId)
+  if totalPages < page then totalPages = page end
+  local urlBase = tocPageBase(body) or (entry and entry.urlBase) or ""
+  tocCacheSave(bookUrl, tocMerge(entry, page, totalPages, chapters, urlBase))
+  return chapters, totalPages, urlBase
+end
+
+-- Chapter-title translation on COPIES (the cache stores raw titles) — a
+-- fresh list is returned whenever translating is active.
+local function finalizeToc(chapters)
+  if trActive() and trChaptersEnabled() and #chapters > 0 then
+    local titles = {}
+    for i = 1, #chapters do titles[i] = chapters[i].title end
+    local tr = translateBatch(titles)
+    local out = {}
+    for i = 1, #chapters do out[i] = { title = tr[i], url = chapters[i].url } end
+    return out
+  end
+  return chapters
+end
+
+local function tocShowUnreachable()
+  if type(show_error) == "function" then
+    show_error("Chapter list unreachable",
+      "The chapter list could not be loaded from 69shuba.tw (the site's " ..
+      "human-verification wall or a network issue).\n\nIf a verification " ..
+      "page appears, tick the \"I'm not a robot\" box once — it usually " ..
+      "passes on real devices — then retry. Progress is remembered: each " ..
+      "retry resumes where the last one stopped.")
+  end
+end
+
+-- ═══════════════════════════════════════════════════════════════════════════
+-- Book details — /book/{id}/
+-- ═══════════════════════════════════════════════════════════════════════════
+--   div.bookinfo table: td img (cover) + td.info:
+--     h1                      title
+--     p "作者：<a>作者</a>"
+--     p "類別：<a>分類</a>"
+--     p "狀態：連載 / 字數：66 萬字"
+--     p "更新：2026-05-12 14:49:47"
+--     p#lastchapter-row "最新：<a>第N章 …</a>"
+--   div.intro p               description
+--   #startread                first-chapter link (fallback for nothing here)
+
+-- Label helper: value after "label：" (full-width) or "label:" (half-width).
+local function afterLabel(t, label)
+  local v = string.match(t, label .. "：(.*)$")
+  if v == nil then v = string.match(t, label .. ":(.*)$") end
+  return v
+end
+
+local function parseBookInfo(body)
+  local out = {}
+  for _, p in ipairs(html_select(body, "td.info p")) do
+    local t = string_clean(p.text or "")
+    if t ~= "" then
+      if out.author == nil then
+        local v = afterLabel(t, "作者")
+        if v and v ~= "" then out.author = v end
+      end
+      if out.category == nil then
+        local v = afterLabel(t, "類別")
+        if v == nil then v = afterLabel(t, "类别") end
+        if v and v ~= "" then out.category = v end
+      end
+      if out.status == nil then
+        local v = afterLabel(t, "狀態")
+        if v == nil then v = afterLabel(t, "状态") end
+        if v then
+          local st = string.match(v, "^(.-)%s*/%s*")
+          if st == nil or st == "" then st = v end
+          out.status = st
+          local words = string.match(v, "字數：(%S+)")
+          if words == nil then words = string.match(v, "字数：(%S+)") end
+          if words then out.words = words end
+        end
+      end
+      if out.updated == nil then
+        local v = afterLabel(t, "更新")
+        if v then
+          out.updated = string.match(v, "(%d%d%d%d%-%d%d%-%d%d %d%d:%d%d:%d%d)")
+            or string.match(v, "(%d%d%d%d%-%d%d%-%d%d)")
+            or v
+        end
+      end
+      if out.latest == nil then
+        local v = afterLabel(t, "最新")
+        if v and v ~= "" then out.latest = v end
+      end
+    end
+  end
+  return out
+end
+
+function getBookTitle(bookUrl)
+  local r = fetchPageCached(bookUrl)
+  if not (r and r.success) then return nil end
+  local el = html_select_first(r.body, "td.info h1")
+  if not el then el = html_select_first(r.body, "div.bookinfo h1") end
+  if not el then return nil end
+  local title = string_clean(el.text)
+  if title == "" then return nil end
+  if trActive() then
+    local tr = translateOne(title)
+    if tr ~= title then return tr .. " (" .. title .. ")" end
+  end
+  return title
+end
+
+function getBookCoverImageUrl(bookUrl)
+  -- the cover is deterministic from the book id — synthesize first so it
+  -- works even when the book page is unreachable, then refine from the page
+  local bookId = bookIdFromUrl(bookUrl)
+  local r = fetchPageCached(bookUrl)
+  if r and r.success then
+    local src = html_attr(r.body, "div.bookinfo img", "src")
+    local u = coverFromImg(src, bookId)
+    if u then return u end
+  end
+  return synthCover(bookId)
+end
+
+function getBookDescription(bookUrl)
+  local r = fetchPageCached(bookUrl)
+  if not (r and r.success) then return nil end
+  local el = html_select_first(r.body, "div.intro")
+  local desc = el and string_clean(el.text) or ""
+  local info = parseBookInfo(r.body)
+  local header = ""
+  if info.author and info.author ~= "" then
+    header = header .. "作者：" .. info.author .. "\n"
+  end
+  if info.category and info.category ~= "" then
+    header = header .. "分類：" .. info.category .. "\n"
+  end
+  if info.words then
+    header = header .. "字數：" .. info.words .. "字\n"
+  end
+  if header ~= "" then header = header .. "\n" end
+  if desc == "" and header == "" then return nil end
+  desc = header .. desc
+  if #desc > 4000 then desc = string.sub(desc, 1, 4000) end
+  if trActive() then desc = translateOne(desc) end
+  return desc
+end
+
+function getBookGenres(bookUrl)
+  local r = fetchPageCached(bookUrl)
+  if not (r and r.success) then return {} end
+  local info = parseBookInfo(r.body)
+  local out = {}
+  if info.category and info.category ~= "" then
+    out[#out + 1] = translateVocab(info.category)
+  end
+  return out
+end
+
+function getBookStatus(bookUrl)
+  local r = fetchPageCached(bookUrl)
+  if not (r and r.success) then return nil end
+  local info = parseBookInfo(r.body)
+  if info.status and info.status ~= "" then
+    return translateVocab(info.status)
+  end
+  return nil
+end
+
+function getBookLastUpdate(bookUrl)
+  local r = fetchPageCached(bookUrl)
+  if not (r and r.success) then return nil end
+  local info = parseBookInfo(r.body)
+  if info.updated then
+    local d = string.match(info.updated, "(%d%d%d%d%-%d%d%-%d%d)")
+    if d then return d end
+  end
+  return nil
+end
+
+function getChapterListHash(bookUrl)
+  local r = fetchPageCached(bookUrl)
+  if not (r and r.success) then return nil end
+  local info = parseBookInfo(r.body)
+  if info.updated or info.latest then
+    return tostring(info.updated or "") .. "|" .. tostring(info.latest or "")
+  end
+  return nil
+end
+
+-- ═══════════════════════════════════════════════════════════════════════════
+-- Chapter list — solver-safe walk (the oop.tw v1.1.0 lessons)
+-- ═══════════════════════════════════════════════════════════════════════════
+-- Two entry points, same core (tocFetchPage):
+--   • parsePage(bookUrl, page) — the engine's paginated API. The engine
+--     walks pages 2..totalPages itself and STOPS at the first failure;
+--     TOC refreshes are incremental (last known page + new pages only).
+--   • getChapterList(bookUrl) — fallback for engines without parsePage.
+--     ABORTS at the first failed page: when the EdgeOne challenge does not
+--     clear for the app's client, each failed fetch already cost a full
+--     WebView-solver ladder — walking on would launch it once per page
+--     (the oop.tw "solver storm" bug).
+-- Both paths persist every parsed page, so a walk that dies mid-way
+-- resumes where it stopped on the next attempt.
+
+function parsePage(bookUrl, page)
+  local raw, totalPages = tocFetchPage(bookUrl, page)
+  if raw == nil or (page == 1 and #raw == 0) then
+    if page == 1 then tocShowUnreachable() end
+    return nil -- non-table: the engine stops the walk / surfaces the error
+  end
+  return { chapters = finalizeToc(raw), totalPages = totalPages or page }
+end
+
+function getChapterList(bookUrl)
+  local p1, totalPages = tocFetchPage(bookUrl, 1)
+  if p1 == nil or #p1 == 0 then
+    -- last resort: the last-known TOC from the persistent cache
+    local entry = tocCacheLoad(bookUrl)
+    if entry then
+      local all = {}
+      for p = 1, entry.totalPages do
+        if entry.pages[p] then
+          for _, ch in ipairs(entry.pages[p]) do all[#all + 1] = ch end
+        end
+      end
+      if #all > 0 then return finalizeToc(all) end
+    end
+    tocShowUnreachable()
+    return {}
+  end
+
+  local chapters = {}
+  local seenUrl = {}
+  for _, ch in ipairs(p1) do
+    chapters[#chapters + 1] = ch
+    seenUrl[ch.url] = true
+  end
+  totalPages = totalPages or 1
+  for p = 2, totalPages do
+    local raw, tp = tocFetchPage(bookUrl, p)
+    if raw == nil then break end -- ABORT at the first failed page
+    if tp and tp > totalPages then totalPages = tp end
+    for _, ch in ipairs(raw) do
+      -- cross-page dedupe: a wrong page-N URL that soft-serves page 1
+      -- again must not duplicate chapters
+      if not seenUrl[ch.url] then
+        chapters[#chapters + 1] = ch
+        seenUrl[ch.url] = true
+      end
+    end
+  end
+  return finalizeToc(chapters)
+end

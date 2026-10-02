@@ -1,0 +1,888 @@
+1|Abandoned Children|1
+2|Ability Steal|2
+3|Absent Parents|1
+4|Abusive Characters|9
+5|Academy|4
+6|Accelerated Growth|1
+7|Acting|8
+8|Adapted from Manga|10
+9|Adapted from Manhua|10
+10|Adapted to Anime|10
+11|Adapted to Drama|10
+12|Adapted to Drama CD|10
+13|Adapted to Game|10
+14|Adapted to Manga|10
+15|Adapted to Manhua|10
+16|Adapted to Manhwa|10
+17|Adapted to Movie|10
+18|Adapted to Visual Novel|10
+19|Adopted Children|1
+20|Adopted Protagonist|1
+21|Adultery|5
+22|Adventurers|7
+23|Affair|5
+24|Age Progression|1
+25|Age Regression|1
+26|Aggressive Characters|1
+27|Alchemy|2
+28|Aliens|7
+29|All-Girls School|4
+30|Alternate World|3
+31|Amnesia|6
+32|Amusement Park|3
+33|Anal|5
+34|Ancient China|3
+35|Ancient Times|3
+36|Androgynous Characters|1
+37|Androids|2
+38|Angels|7
+39|Animal Characteristics|11
+40|Animal Rearing|11
+41|Anti-Magic|2
+42|Anti-social Protagonist|1
+43|Antihero Protagonist|1
+44|Antique Shop|8
+45|Apartment Life|11
+46|Apathetic Protagonist|1
+47|Apocalypse|3
+48|Appearance Changes|2
+49|Appearance Different from Actual Age|1
+50|Archery|8
+51|Aristocracy|4
+52|Arms Dealers|4
+53|Army|4
+54|Army Building|4
+55|Arranged Marriage|5
+56|Arrogant Characters|1
+57|Artifact Crafting|11
+58|Artifacts|11
+59|Artificial Intelligence|2
+60|Artists|8
+61|Assassins|4
+62|Astrologers|7
+63|Autism|1
+64|Automatons|2
+65|Average-looking Protagonist|1
+66|Award-winning Work|10
+67|Awkward Protagonist|1
+68|Bands|8
+69|Based on a Movie|10
+70|Based on a Song|10
+71|Based on a TV Show|10
+72|Based on a Video Game|10
+73|Based on a Visual Novel|10
+74|Based on an Anime|10
+75|Battle Academy|4
+76|Battle Competition|4
+77|BDSM|5
+78|Beast Companions|7
+79|Beastkin|7
+80|Beasts|7
+81|Beautiful Female Lead|1
+82|Bestiality|5
+83|Betrayal|6
+84|Bickering Couple|5
+85|Biochip|2
+86|Bisexual Protagonist|1
+87|Black Belly|1
+88|Blackmail|5
+89|Blacksmith|8
+90|Blind Dates|5
+91|Blind Protagonist|1
+92|Blood Manipulation|2
+93|Bloodlines|2
+94|Body Swap|2
+95|Body Tempering|2
+96|Body-double|11
+97|Bodyguards|8
+98|Books|11
+99|Bookworm|1
+100|Boss-Subordinate Relationship|4
+101|Brainwashing|2
+102|Breast Fetish|5
+103|Broken Engagement|5
+104|Brother Complex|5
+105|Brotherhood|5
+106|Buddhism|11
+107|Bullying|9
+108|Business Management|4
+109|Businessmen|8
+110|Butlers|8
+111|Calm Protagonist|1
+112|Cannibalism|6
+113|Card Games|11
+114|Carefree Protagonist|1
+115|Caring Protagonist|1
+116|Cautious Protagonist|1
+117|Celebrities|8
+118|Character Growth|1
+119|Charismatic Protagonist|1
+120|Charming Protagonist|1
+121|Chat Rooms|6
+122|Cheats|2
+123|Chefs|8
+124|Child Abuse|5
+125|Child Protagonist|1
+126|Childcare|11
+127|Childhood Friends|5
+128|Childhood Love|5
+129|Childhood Promise|5
+130|Childish Protagonist|1
+131|Chuunibyou|1
+132|Clan Building|4
+133|Classic|3
+134|Clever Protagonist|1
+135|Clingy Lover|5
+136|Clones|2
+137|Clubs|4
+138|Clumsy Love Interests|5
+139|Co-Workers|11
+140|Cohabitation|11
+141|Cold Love Interests|5
+142|Cold Protagonist|1
+143|Collection of Short Stories|6
+144|College/University|11
+145|Coma|1
+146|Comedic Undertone|9
+147|Coming of Age|1
+148|Complex Family Relationships|5
+149|Conditional Power|2
+150|Confident Protagonist|1
+151|Confinement|5
+152|Conflicting Loyalties|6
+153|Contracts|4
+154|Cooking|11
+155|Corruption|9
+156|Cosmic Wars|4
+157|Cosplay|8
+158|Couple Growth|1
+159|Court Official|4
+160|Cousins|5
+161|Cowardly Protagonist|1
+162|Crafting|4
+163|Crime|6
+164|Criminals|6
+165|Cross-dressing|1
+166|Crossover|6
+167|Cruel Characters|9
+168|Cryostasis|2
+169|Cultivation|2
+170|Cunnilingus|5
+171|Cunning Protagonist|1
+172|Curious Protagonist|1
+173|Curses|2
+174|Cute Children|11
+175|Cute Protagonist|1
+176|Cute Story|9
+177|Dancers|8
+178|Dao Companion|2
+179|Dao Comprehension|2
+180|Daoism|11
+181|Dark|9
+182|Dead Protagonist|1
+183|Death|6
+184|Death of Loved Ones|5
+185|Debts|4
+186|Delinquents|1
+187|Delusions|6
+188|Demi-Humans|7
+189|Demon Lord|7
+190|Demonic Cultivation Technique|2
+191|Demons|7
+192|Dense Protagonist|1
+193|Depictions of Cruelty|9
+194|Depression|9
+195|Destiny|9
+196|Detectives|8
+197|Determined Protagonist|1
+198|Devoted Love Interests|5
+199|Different Social Status|5
+200|Disabilities|1
+201|Discrimination|9
+202|Disfigurement|11
+203|Dishonest Protagonist|1
+204|Distrustful Protagonist|1
+205|Divination|2
+206|Divine Protection|2
+207|Divorce|5
+208|Doctors|8
+209|Dolls/Puppets|11
+210|Domestic Affairs|11
+211|Doting Love Interests|5
+212|Doting Older Siblings|1
+213|Doting Parents|1
+214|Dragon Riders|8
+215|Dragon Slayers|8
+216|Dragons|7
+217|Dreams|11
+218|Drugs|4
+219|Druids|7
+220|Dungeon Master|2
+221|Dungeons|3
+222|Dwarfs|7
+223|Dystopia|3
+224|e-Sports|8
+225|Early Romance|5
+226|Earth Invasion|4
+227|Easy Going Life|11
+228|Economics|4
+229|Editors|8
+230|Eidetic Memory|2
+231|Elderly Protagonist|1
+232|Elemental Magic|2
+233|Elves|7
+234|Emotionally Weak Protagonist|1
+235|Empires|4
+236|Enemies Become Allies|5
+237|Enemies Become Lovers|5
+238|Engagement|5
+239|Engineer|7
+240|Enlightenment|1
+241|Episodic|6
+242|Eunuch|4
+243|European Ambience|3
+244|Evil Gods|7
+245|Evil Organizations|7
+246|Evil Protagonist|1
+247|Evil Religions|4
+248|Evolution|1
+249|Exhibitionism|5
+250|Exorcism|2
+251|Eye Powers|2
+252|Fairies|7
+253|Fallen Angels|7
+254|Fallen Nobility|1
+255|Familial Love|5
+256|Familiars|7
+257|Family|5
+258|Family Business|4
+259|Family Conflict|5
+260|Famous Parents|1
+261|Famous Protagonist|1
+262|Fanaticism|9
+264|Fantasy Creatures|7
+265|Fantasy World|3
+266|Farming|4
+267|Fast Cultivation|2
+268|Fast Learner|1
+269|Fat Protagonist|1
+270|Fat to Fit|1
+271|Fated Lovers|5
+272|Fearless Protagonist|1
+273|Fellatio|5
+274|Female Master|8
+275|Female Protagonist|1
+276|Female to Male|1
+277|Feng Shui|11
+278|Firearms|2
+279|First Love|5
+280|First-time Intercourse|5
+281|Flashbacks|6
+282|Fleet Battles|4
+283|Folklore|11
+284|Forced into a Relationship|5
+285|Forced Living Arrangements|5
+286|Forced Marriage|5
+287|Forgetful Protagonist|1
+288|Former Hero|1
+289|Fox Spirits|7
+290|Friends Become Enemies|5
+291|Friendship|9
+292|Fujoshi|1
+293|Futanari|5
+294|Futuristic Setting|3
+295|Galge|2
+296|Gambling|4
+297|Game Elements|2
+298|Game Ranking System|2
+299|Gamers|8
+300|Gangs|4
+301|Gate to Another World|3
+302|Genderless Protagonist|1
+303|Generals|4
+304|Genetic Modifications|2
+305|Genies|2
+306|Genius Protagonist|1
+307|Ghosts|7
+308|Gladiators|4
+309|Glasses-wearing Love Interests|5
+310|Glasses-wearing Protagonist|1
+311|Goblins|7
+312|God Protagonist|1
+313|God-human Relationship|7
+314|Goddesses|7
+315|Godly Powers|2
+316|Gods|7
+317|Golems|7
+318|Gore|6
+319|Grave Keepers|7
+320|Grinding|2
+321|Guardian Relationship|5
+322|Guilds|4
+323|Gunfighters|8
+324|Hackers|8
+325|Half-human Protagonist|1
+326|Handjob|5
+327|Handsome Male Lead|1
+328|Hard-Working Protagonist|1
+329|Harem-seeking Protagonist|5
+330|Harsh Training|1
+331|Hated Protagonist|1
+332|Healers|2
+333|Heartwarming|9
+334|Heaven|3
+335|Heavenly Tribulation|2
+336|Hell|3
+337|Helpful Protagonist|1
+338|Herbalist|7
+339|Heroes|7
+340|Heterochromia|11
+341|Hidden Abilities|2
+342|Hiding True Abilities|1
+343|Hiding True Identity|1
+344|Hikikomori|1
+345|Homunculus|7
+346|Honest Protagonist|1
+347|Hospital|3
+348|Hot-blooded Protagonist|1
+349|Human Experimentation|6
+350|Human Weapon|1
+351|Human-Nonhuman Relationship|5
+352|Humanoid Protagonist|1
+353|Hunters|4
+354|Hypnotism|2
+355|Identity Crisis|6
+356|Imaginary Friend|6
+357|Immortals|7
+358|Imperial Harem|4
+359|Incest|5
+360|Incubus|7
+361|Indecisive Protagonist|1
+362|Industrialization|4
+363|Inferiority Complex|1
+364|Inheritance|6
+365|Inscriptions|2
+366|Insects|7
+367|Interconnected Storylines|6
+368|Interdimensional Travel|3
+369|Introverted Protagonist|1
+370|Investigations|6
+371|Invisibility|2
+372|Jack of All Trades|11
+373|Jealousy|5
+374|Jiangshi|7
+375|Jobless Class|1
+376|JSDF|4
+377|Kidnappings|5
+378|Kind Love Interests|5
+379|Kingdom Building|4
+380|Kingdoms|4
+381|Knights|4
+382|Kuudere|1
+383|Lack of Common Sense|1
+384|Language Barrier|11
+385|Late Romance|5
+386|Lawyers|8
+387|Lazy Protagonist|1
+388|Leadership|4
+389|Legends|7
+390|Level System|2
+391|Library|3
+392|Limited Lifespan|1
+393|Living Abroad|11
+394|Living Alone|11
+395|Loli|1
+396|Loneliness|9
+397|Loner Protagonist|1
+398|Long Separations|5
+399|Long-distance Relationship|5
+400|Lost Civilizations|3
+401|Lottery|2
+402|Love at First Sight|5
+403|Love Interest Falls in Love First|5
+404|Love Rivals|5
+405|Love Triangles|5
+406|Lovers Reunited|5
+407|Low-key Protagonist|1
+408|Loyal Subordinates|4
+409|Lucky Protagonist|1
+410|Magic|2
+411|Magic Beasts|7
+412|Magic Formations|2
+413|Magical Girls|2
+414|Magical Space|2
+415|Magical Technology|2
+416|Maids|8
+417|Male Protagonist|1
+418|Male to Female|1
+419|Male Yandere|5
+420|Management|4
+421|Mangaka|8
+422|Manipulative Characters|1
+423|Manly Gay Couple|5
+424|Marriage|5
+425|Marriage of Convenience|5
+426|Martial Spirits|2
+427|Masochistic Characters|1
+428|Master-Disciple Relationship|4
+429|Master-Servant Relationship|4
+430|Masturbation|5
+431|Matriarchy|4
+432|Mature Protagonist|1
+433|Medical Knowledge|8
+434|Medieval|3
+435|Mercenaries|8
+436|Merchants|8
+437|Military|4
+438|Mind Break|5
+439|Mind Control|2
+440|Misandry|11
+441|Mismatched Couple|5
+442|Misunderstandings|9
+443|MMORPG|2
+444|Mob Protagonist|1
+445|Models|8
+446|Modern Day|3
+447|Modern Knowledge|1
+448|Money Grubber|4
+449|Monster Girls|7
+450|Monster Society|3
+451|Monster Tamer|7
+452|Monsters|7
+453|Movies|8
+454|Mpreg|3
+455|Multiple Identities|6
+456|Multiple Personalities|1
+457|Multiple POV|6
+458|Multiple Protagonists|1
+459|Multiple Realms|3
+460|Multiple Reincarnated Individuals|3
+461|Multiple Timelines|3
+462|Multiple Transported Individuals|3
+463|Murders|6
+464|Music|8
+465|Mutated Creatures|7
+466|Mutations|7
+467|Mute Character|1
+468|Mysterious Family Background|1
+469|Mysterious Illness|9
+470|Mysterious Past|6
+471|Mystery Solving|6
+472|Mythical Beasts|7
+473|Mythology|11
+474|Naive Protagonist|1
+475|Narcissistic Protagonist|1
+476|Nationalism|9
+477|Near-Death Experience|1
+478|Necromancer|2
+479|Neet|1
+480|Netorare|5
+481|Netorase|5
+482|Netori|5
+483|Nightmares|6
+484|Ninjas|7
+485|Nobles|4
+486|Non-humanoid Protagonist|1
+487|Non-linear Storytelling|6
+488|Nudity|5
+489|Nurses|8
+490|Obsessive Love|5
+491|Office Romance|5
+492|Older Love Interests|5
+493|Omegaverse|3
+494|Oneshot|6
+495|Online Romance|5
+496|Onmyouji|2
+497|Orcs|7
+498|Organized Crime|6
+499|Orgy|5
+500|Orphans|1
+501|Otaku|11
+502|Otome Game|2
+503|Outcasts|1
+504|Outdoor Intercourse|5
+505|Outer Space|3
+506|Overpowered Protagonist|1
+507|Overprotective Siblings|5
+508|Pacifist Protagonist|1
+509|Paizuri|5
+510|Parallel Worlds|3
+511|Parasites|2
+512|Parent Complex|5
+513|Parody|6
+514|Part-Time Job|8
+515|Past Plays a Big Role|6
+516|Past Trauma|1
+517|Persistent Love Interests|5
+518|Personality Changes|1
+519|Perverted Protagonist|1
+520|Pets|11
+521|Pharmacist|8
+522|Philosophical|9
+523|Phobias|9
+524|Phoenixes|7
+525|Photography|8
+526|Pill Based Cultivation|2
+527|Pill Concocting|2
+528|Pilots|8
+529|Pirates|4
+530|Playboys|1
+531|Playful Protagonist|1
+532|Poetry|8
+533|Poisons|8
+534|Police|7
+535|Polite Protagonist|1
+536|Politics|4
+537|Polyandry|5
+538|Polygamy|5
+539|Poor Protagonist|1
+540|Poor to Rich|4
+541|Popular Love Interests|5
+542|Possession|2
+543|Possessive Characters|5
+544|Post-apocalyptic|3
+545|Power Couple|5
+546|Power Struggle|6
+547|Pragmatic Protagonist|1
+548|Precognition|2
+549|Pregnancy|5
+550|Pretend Lovers|5
+551|Previous Life Talent|1
+552|Priestesses|7
+553|Priests|7
+554|Prison|3
+555|Proactive Protagonist|1
+556|Programmer|8
+557|Prophecies|6
+558|Prostitutes|5
+559|Protagonist Falls in Love First|5
+560|Protagonist Strong from the Start|1
+561|Protagonist with Multiple Bodies|2
+562|Psychic Powers|2
+563|Psychopaths|1
+564|Puppeteers|8
+565|Quiet Characters|1
+566|Quirky Characters|1
+567|R-15|9
+568|R-18|5
+569|Race Change|1
+570|Racism|9
+571|Rape|5
+572|Rape Victim Becomes Lover|5
+573|Rebellion|6
+574|Reincarnated as a Monster|1
+575|Reincarnated as an Object|1
+576|Reincarnated in a Game World|2
+577|Reincarnated in Another World|1
+578|Reincarnation|1
+579|Religions|4
+580|Reluctant Protagonist|1
+581|Reporters|8
+582|Restaurant|3
+583|Resurrection|2
+584|Returning from Another World|1
+585|Revenge|6
+586|Reverse Harem|5
+587|Reverse Rape|5
+588|Reversible Couple|5
+589|Rich to Poor|4
+590|Righteous Protagonist|1
+591|Rivalry|6
+592|Romantic Subplot|5
+593|Roommates|11
+594|Royalty|4
+595|Ruthless Protagonist|1
+596|Sadistic Characters|1
+597|Saints|7
+598|Salaryman|1
+599|Samurai|4
+600|Saving the World|6
+601|Schemes And Conspiracies|6
+602|Schizophrenia|1
+603|Scientists|8
+604|Sculptors|8
+605|Sealed Power|1
+606|Second Chance|1
+607|Secret Crush|5
+608|Secret Identity|6
+609|Secret Organizations|4
+610|Secret Relationship|5
+611|Secretive Protagonist|1
+612|Secrets|6
+613|Sect Development|4
+614|Seduction|5
+615|Seeing Things Other Humans Can't|2
+616|Selfish Protagonist|1
+617|Selfless Protagonist|1
+618|Seme Protagonist|1
+619|Senpai-Kouhai Relationship|5
+620|Sentient Objects|7
+621|Sentimental Protagonist|1
+622|Serial Killers|8
+623|Servants|8
+624|Seven Deadly Sins|7
+625|Seven Virtues|7
+626|Sex Friends|5
+627|Sex Slaves|5
+628|Sexual Abuse|5
+629|Sexual Cultivation Technique|2
+630|Shameless Protagonist|1
+631|Shapeshifters|2
+632|Sharing A Body|2
+633|Sharp-tongued Characters|1
+634|Shield User|8
+635|Shikigami|7
+636|Short Story|6
+637|Shota|1
+638|Shoujo-Ai Subplot|5
+639|Shounen-Ai Subplot|5
+640|Showbiz|8
+641|Shy Characters|1
+642|Sibling Rivalry|5
+643|Sibling's Care|5
+644|Siblings|5
+645|Siblings Not Related by Blood|5
+646|Sickly Characters|9
+647|Sign Language|11
+648|Singers|8
+649|Single Parent|5
+650|Sister Complex|5
+651|Skill Assimilation|1
+652|Skill Books|2
+653|Skill Creation|1
+654|Slave Harem|5
+655|Slave Protagonist|1
+656|Slaves|4
+657|Sleeping|11
+658|Slow Growth at Start|1
+659|Slow Romance|5
+660|Smart Couple|5
+661|Social Outcasts|9
+662|Soldiers|8
+663|Soul Power|2
+664|Souls|7
+665|Spatial Manipulation|2
+666|Spear Wielder|8
+667|Special Abilities|2
+668|Spies|8
+669|Spirit Advisor|7
+670|Spirit Users|2
+671|Spirits|7
+672|Stalkers|5
+673|Stockholm Syndrome|5
+674|Stoic Characters|1
+675|Store Owner|8
+676|Straight Seme|1
+677|Straight Uke|1
+678|Strategic Battles|4
+679|Strategist|7
+680|Strength-based Social Hierarchy|4
+681|Strong Love Interests|5
+682|Strong to Stronger|1
+683|Stubborn Protagonist|1
+684|Student Council|4
+685|Student-Teacher Relationship|4
+686|Succubus|7
+687|Sudden Strength Gain|1
+688|Sudden Wealth|4
+689|Suicides|9
+690|Summoned Hero|1
+691|Summoning Magic|2
+692|Survival|6
+693|Survival Game|2
+694|Sword And Magic|2
+695|Sword Wielder|7
+696|System|2
+697|Teachers|8
+698|Teamwork|4
+699|Technological Gap|3
+700|Tentacles|7
+701|Terminal Illness|9
+702|Terrorists|4
+703|Thieves|8
+704|Threesome|5
+705|Thriller|6
+706|Time Loop|3
+707|Time Manipulation|2
+708|Time Paradox|3
+709|Time Skip|6
+710|Time Travel|3
+711|Timid Protagonist|1
+712|Tomboyish Female Lead|1
+713|Torture|5
+714|Toys|5
+715|Tragic Past|1
+716|Transformation Ability|2
+717|Transmigration|1
+718|Transplanted Memories|1
+719|Transported into a Game World|1
+720|Transported Modern Structure|3
+721|Transported to Another World|1
+722|Trap|1
+723|Tribal Society|3
+724|Trickster|1
+725|Tsundere|5
+726|Twins|5
+727|Twisted Personality|1
+728|Ugly Protagonist|1
+729|Ugly to Beautiful|11
+730|Unconditional Love|5
+731|Underestimated Protagonist|1
+732|Unique Cultivation Technique|2
+733|Unique Weapon User|8
+734|Unique Weapons|11
+735|Unlimited Flow|2
+736|Unlucky Protagonist|1
+737|Unreliable Narrator|1
+738|Unrequited Love|5
+739|Valkyries|7
+740|Vampires|7
+741|Villainess Noble Girls|1
+742|Virtual Reality|2
+743|Vocaloid|10
+744|Voice Actors|8
+745|Voyeurism|5
+746|Waiters|8
+747|War Records|4
+748|Wars|4
+749|Weak Protagonist|1
+750|Weak to Strong|1
+751|Wealthy Characters|4
+752|Werebeasts|7
+753|Wishes|2
+754|Witches|7
+755|Wizards|2
+756|World Hopping|3
+757|World Travel|3
+758|World Tree|3
+759|Writers|8
+760|Yandere|5
+761|Youkai|7
+762|Younger Brothers|5
+763|Younger Love Interests|5
+764|Younger Sisters|5
+765|Zombies|7
+766|Marvel|10
+767|One Piece|10
+768|Harry Potter|10
+769|Naruto|10
+770|Bleach|10
+771|Pokemon|10
+772|Douluo Dalu|10
+773|Dragon Ball|10
+774|Yu-Gi-Oh!|10
+775|Warhammer|10
+776|Jujutsu Kaisen|10
+777|Hunter x Hunter|10
+778|DC Universe|10
+779|Hollywood|8
+780|Football|8
+781|Gao Wu|2
+782|Live Streaming|8
+783|Cyberpunk 2077|10
+784|Game Creator|2
+785|Swallowed Star|10
+786|Simulator|2
+787|Single Female Lead|5
+788|Western Names|11
+789|Dark Fantasy|9
+790|Minecraft|10
+791|League of Legends|10
+792|Mortal Flow|2
+793|Proficiency|2
+794|DnD|10
+795|Three Kingdoms|3
+796|Journey to the West|10
+797|Devouring|2
+798|Eavesdropping|6
+799|Lord of the Mysteries|10
+800|Conferred Gods|10
+801|Honghuang|10
+802|Territory Management|4
+803|Heaven Defying Comprehension|1
+804|Detective Conan|10
+806|Business Wars|4
+807|Copy|2
+808|Faith Dependent Deities|2
+809|Basketball|8
+810|Undead Protagonist|1
+811|Sign In|2
+812|Demon Slayer|10
+813|Game of Thrones|10
+814|Fairy Tail|10
+815|Genshin Impact|10
+816|Frieren|10
+817|Star Wars|10
+818|Honkai Impact 3|10
+819|Witcher|10
+820|Siheyuan|10
+821|Hong Kong|11
+822|Array|2
+823|Lord|4
+824|Life Script|6
+825|More Children More Blessings|5
+826|Overlord|10
+827|Class Awakening|2
+828|Spiritual Energy Revival|3
+829|Reborn|1
+830|Reality-Game Fusion|2
+831|Reborn as the Villain|1
+832|BTTH|10
+833|Arknights|10
+834|Uma Musume|10
+835|Steampunk|3
+836|The Boys|10
+837|One Punch Man|10
+838|Ultraman|10
+839|Black Clover|10
+840|Danmachi|10
+841|Daily Intelligence|11
+842|Simultaneous Transmigration|1
+843|Kamen Rider|10
+844|Nasuverse|10
+845|Versatile Mage|10
+846|Adapted to Donghua|10
+847|Highschool DxD|10
+848|Furry Relationship|5
+849|Immortal Protagonist|1
+850|Toaru|10
+851|Digimon|10
+852|The Walking Dead|10
+853|Lord of the Ring|10
+854|Classroom of the Elite|10
+855|Stand User|2
+856|Resident Evil|10
+857|Touhou Project|10
+858|Project Moon|10
+859|JoJo’s Bizarre Adventure|10
+860|Machinist|8
+861|Qing Transmigration|10
+862|Kirkmanverse|10
+863|Pirates of Caribbean|10
+864|King's Avatar|10
+865|Hikigaya|10
+866|Strike the Blood|10
+867|Zenless Zone Zero|10
+868|Fabulous Beast|10
+869|The Eminence in Shadow|10
+870|Slay the Gods|10
+871|Behind-the-Scenes Mastermind|1
+872|Final Fantasy|10
+873|1900s|3
+874|1910s|3
+875|1920s|3
+876|1930s|3
+877|1940s|3
+878|1950s|3
+879|1960s|3
+880|1970s|3
+881|1980s|3
+882|1990s|3
+883|2000s|3
+884|2010s|3
+885|Blue Archive|10
+886|Food Wars!|10
+887|Dragon Raja|10
+888|Monster Hunter|10
+889|Honkai Star Rails|10
+890|System Misunderstanding|2

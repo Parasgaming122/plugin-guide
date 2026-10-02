@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Please complete human verification to continue</title>
+<style>
+body{margin:0;padding:0;background-color:rgb(30,33,40)}*{box-sizing:border-box}.g-recaptcha-loader{width:28px;padding:8px;aspect-ratio:1;border-radius:50%;background:#f5f5f5;--_m:conic-gradient(#0000 10%,#000),linear-gradient(#000 0 0) content-box;-webkit-mask:var(--_m);mask:var(--_m);-webkit-mask-composite:source-out;mask-composite:subtract;animation:l3 1s infinite linear;display:none}@keyframes l3{to{transform:rotate(1turn)}}.container{display:flex;flex-direction:column;justify-content:center;align-items:center;min-height:100vh}.recaptcha-v3-container{display:flex;justify-content:space-between;align-items:center;width:302px;height:74px;padding:0 20px;border:none;outline:none;background:#222;color:#fff;border:1px solid #525252;border-radius:4px}.recaptcha-v3-container .label{margin-left:14px;font-size:14px}.recaptcha-v3-container .prepend{display:flex;align-items:center}.recaptcha-v3-container .append{display:flex;flex-direction:column;align-items:center}.recaptcha-v3-container .version{font-size:11px;color:#f5f5f5;margin-top:4px}.recaptcha-v3-container .logo{width:32px;height:32px}.recaptcha-v3-container .error{width:140px;font-size:12px;color:#f44336;margin-left:14px;display:none}.g-recaptcha-success{width:28px;height:28px;fill:#4caf50;display:none}.g-recaptcha.v3{flex-shrink:0;width:28px;height:28px;cursor:pointer;border:2px solid #c1c1c1;background:#fff;border-radius:2px}.title{width:300px;text-align:center;color:#f5f5f5;font-size:16px}.subtitle{width:300px;text-align:center;color:#b1b1b1;font-size:12px;margin-top:10px;margin-bottom:20px}
+</style>
+            <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+        
+<head>
+</head>
+<body>
+<div class="container">
+<div class="title"></div>
+<div class="subtitle"></div>
+            <div class="cf-turnstile" data-sitekey="0x4AAAAAACH3xGE6z3niTOJt" data-callback="turnstileSuccessCallback" data-error-callback="turnstileErrorCallback" data-theme="dark"></div>
+        
+</div>
+<script>
+    window.reportURL = '/aegis_captcha_verify?rule_uuid=583afb78-edd8-45dd-ad7d-13bb7b3d370d'
+
+    function showErrorPage(response) {
+      response.text().then((html) => {
+        setTimeout(() => {
+          document.open()
+          document.write(html)
+          document.close()
+        }, 1000)
+      })
+    }
+
+    function turnstileSuccessCallback(token) {
+      fetch(buildReportURL(), {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ token })
+      }).then((response) => {
+        if (response.status >= 200 && response.status < 300) {
+          setTimeout(() => {
+            resolved()
+          }, 1000)
+        } else {
+          showErrorPage(response)
+        }
+      })
+    }
+
+    function turnstileErrorCallback() {
+    }
+
+    function recaptchaSuccessCallback(token) {
+      fetch(buildReportURL(), {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ token })
+      }).then((response) => {
+        if (response.status >= 200 && response.status < 300) {
+          showReCaptchaV3Success()
+          setTimeout(() => {
+            resolved()
+          }, 1000)
+        } else {
+          showReCaptchaV3Error()
+          showErrorPage(response)
+        }
+      })
+    }
+
+    function recaptchaErrorCallback() {
+      showReCaptchaV3Error()
+    }
+
+    function buildReportURL() {
+      return `${window.reportURL}${window.reportURL.includes('?') ? '&' : '?'}source_url=${encodeURIComponent(window.location.href)}`
+    }
+
+    function resolved() {
+      const uriRedirect = new URLSearchParams(window.location.search).get('uri-redirect')
+      uriRedirect ? window.location.replace(decodeURIComponent(uriRedirect)) : window.location.reload()
+    }
+  </script>
+<script>
+    const turnstile = document.querySelector('.cf-turnstile')
+    const recaptchaV3 = document.querySelector('.g-recaptcha.v3')
+    if (recaptchaV3) {
+      recaptchaV3.addEventListener('click', showReCaptchaV3Loading)
+    }
+
+    setMessages()
+
+    function showReCaptchaV3Loading() {
+      if (!recaptchaV3) {
+        return
+      }
+
+      document.querySelector('.g-recaptcha-loader').style.display = 'block'
+      document.querySelector('.g-recaptcha.v3').style.display = 'none'
+      document.querySelector('.g-recaptcha-success').style.display = 'none'
+      document.querySelector('.recaptcha-v3-container .error').style.display = 'none'
+      document.querySelector('.recaptcha-v3-container .label').style.display = 'block'
+    }
+
+    function showReCaptchaV3Success() {
+      if (!recaptchaV3) {
+        return
+      }
+
+      document.querySelector('.g-recaptcha-loader').style.display = 'none'
+      document.querySelector('.g-recaptcha.v3').style.display = 'none'
+      document.querySelector('.g-recaptcha-success').style.display = 'block'
+      document.querySelector('.recaptcha-v3-container .label').style.display = 'block'
+      document.querySelector('.recaptcha-v3-container .error').style.display = 'none'
+    }
+
+    function showReCaptchaV3Error() {
+      if (!recaptchaV3) {
+        return
+      }
+
+      document.querySelector('.g-recaptcha-loader').style.display = 'none'
+      document.querySelector('.g-recaptcha.v3').style.display = 'block'
+      document.querySelector('.g-recaptcha-success').style.display = 'none'
+      document.querySelector('.recaptcha-v3-container .label').style.display = 'none'
+      document.querySelector('.recaptcha-v3-container .error').style.display = 'block'
+    }
+
+    function setMessages() {
+      const locale = window.navigator.language.toLowerCase().startsWith('zh') ? 'zh-CN' : 'en-US'
+      const i18nMessages = {
+        'zh-CN': {
+          title: '请完成人机验证以继续',
+          subtitle: '点击下方的复选框进行认证',
+          v3Title: '进行人机身份验证',
+          v3Error: '验证失败，请重试'
+        },
+        'en-US': {
+          title: 'Please complete human verification to continue',
+          subtitle: 'Click the checkbox below to verify',
+          v3Title: 'I\'m not a robot',
+          v3Error: 'Verification failed, please try again'
+        }
+      }
+      const message = i18nMessages[locale]
+
+      document.querySelector('.title').innerHTML = message.title
+      document.querySelector('.subtitle').innerHTML = message.subtitle
+
+      if (recaptchaV3) {
+        document.querySelector('.recaptcha-v3-container .label').innerHTML = message.v3Title
+        document.querySelector('.recaptcha-v3-container .error').innerHTML = message.v3Error
+      }
+    }
+
+  </script>
+</body>
+</html>

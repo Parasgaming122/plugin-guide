@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://github.com",
+    "name": "GitHub - jiwangyihao/source-j-legado",
+    "snippet": "2024年5月2日 — My book source set for legado , mainly focused on light novels and maybe later manga (?) - jiwangyihao/source-j-legado.",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "2024年5月2日",
+    "favicon": ""
+  },
+  {
+    "url": "https://gitee.com",
+    "name": "阅读: 小白自己整理各位大佬的书源合集",
+    "snippet": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。 导入教程. 在阅读app-我的- 书源 管理-网络导入。（大佬的 ...",
+    "host_name": "gitee.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://t.me",
+    "name": "Legado｜开源阅读｜频道",
+    "snippet": "这个功能其实就是对一些固定链接的 书源 可以快速进行更新。说白了就是只要大佬们的 书源 合集链接保持稳定，你就可以添加进去每个月点击一下就能直接更新 书源 。 ... 大概就是 ...",
+    "host_name": "t.me",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://bbs.csdn.net",
+    "name": "开源阅读App书源导入与校验：保姆级教程解决新手安装使用难题",
+    "snippet": "2026年7月30日 — 在安装开源阅读之前，你的Android设备需要开启“允许安装来自未知来源的应用”权限。这个设置通常在“设置”->“安全”或“隐私”->“特殊应用权限”中。",
+    "host_name": "bbs.csdn.net",
+    "rank": 3,
+    "date": "2026年7月30日",
+    "favicon": ""
+  },
+  {
+    "url": "https://zhuanlan.zhihu.com",
+    "name": "我要看小说：开源阅读最新APP、书源及详细教程（全网最细喂",
+    "snippet": "2025年2月18日 — 源仓库收集了大量别人整理的源，包含漫画、有声书等等，可以一键导入自己喜欢的单个 书源 或者 书源 合集。 https://www.yckceo.com/yuedu/shuyuans/ json /id/ ...",
+    "host_name": "zhuanlan.zhihu.com",
+    "rank": 4,
+    "date": "2025年2月18日",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bilibili.com",
+    "name": "开源阅读软件10000个书源(带安装包)",
+    "snippet": "开源阅读软件10000个 书源 (带安装包). 大七八. 关注. 最新更新 书源 ：https://www.yckceo.com/yuedu/shuyuans/ json /id/2. json . 书源 . https://code.gitlink.org.cn/yi-c/yd ...",
+    "host_name": "www.bilibili.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://gedoor.github.io",
+    "name": "八月书源更新",
+    "snippet": "2022年8月1日 — 修复失效 书源 ，完善已有 书源 正文广告过滤规则； · 起点排行榜、纵横排行榜、追书排行榜仅适用于找书，阅读时建议换源； · 本 书源 适用于3.0版，2.0版阅读app ...",
+    "host_name": "gedoor.github.io",
+    "rank": 6,
+    "date": "2022年8月1日",
+    "favicon": ""
+  }
+]

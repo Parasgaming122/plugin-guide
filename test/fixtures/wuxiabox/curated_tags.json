@@ -1,0 +1,4532 @@
+[
+ {
+  "id": "145",
+  "label": "Abandoned Children",
+  "letter": "A",
+  "dupes": 3
+ },
+ {
+  "id": "289",
+  "label": "Ability Steal",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "240",
+  "label": "Absent Parents",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "1",
+  "label": "Abusive Characters",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "50",
+  "label": "Academy",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "51",
+  "label": "Accelerated Growth",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "103",
+  "label": "Acting",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "87",
+  "label": "Adapted to Anime",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "334",
+  "label": "Adapted to Game",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "973",
+  "label": "Adapted to Visual Novel",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "262",
+  "label": "Adopted Children",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "270",
+  "label": "Adopted Protagonist",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "433",
+  "label": "Adultery",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "276",
+  "label": "Adventurers",
+  "letter": "A",
+  "dupes": 3
+ },
+ {
+  "id": "670",
+  "label": "Affair",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "206",
+  "label": "Age Progression",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "436",
+  "label": "Age Regression",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "242",
+  "label": "Aggressive Characters",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "52",
+  "label": "Alchemy",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "243",
+  "label": "Aliens",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "1024",
+  "label": "All-Girls School",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "220",
+  "label": "Alternate World",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "244",
+  "label": "Amnesia",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "766",
+  "label": "Amusement Park",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "53",
+  "label": "Anal",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "34",
+  "label": "Ancient China",
+  "letter": "A",
+  "dupes": 3
+ },
+ {
+  "id": "149",
+  "label": "Ancient Times",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "318",
+  "label": "Androgynous Characters",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "471",
+  "label": "Androids",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "369",
+  "label": "Angels",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "120",
+  "label": "Animal Characteristics",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "453",
+  "label": "Animal Rearing",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "688",
+  "label": "Anti-Magic",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "454",
+  "label": "Anti-social Protagonist",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "36",
+  "label": "Antihero Protagonist",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "619",
+  "label": "Antique Shop",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "725",
+  "label": "Apartment Life",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "295",
+  "label": "Apathetic Protagonist",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "89",
+  "label": "Apocalypse",
+  "letter": "A",
+  "dupes": 4
+ },
+ {
+  "id": "411",
+  "label": "Archery",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "221",
+  "label": "Aristocracy",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "1540",
+  "label": "Arknights",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "357",
+  "label": "Arms Dealers",
+  "letter": "A",
+  "dupes": 3
+ },
+ {
+  "id": "329",
+  "label": "Army",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "163",
+  "label": "Army Building",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "223",
+  "label": "Arranged Marriage",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "55",
+  "label": "Arrogant Characters",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "209",
+  "label": "Artifact Crafting",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "210",
+  "label": "Artifacts",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "91",
+  "label": "Artificial Intelligence",
+  "letter": "A",
+  "dupes": 3
+ },
+ {
+  "id": "302",
+  "label": "Artists",
+  "letter": "A",
+  "dupes": 3
+ },
+ {
+  "id": "217",
+  "label": "Assassins",
+  "letter": "A",
+  "dupes": 2
+ },
+ {
+  "id": "700",
+  "label": "Astrologers",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "241",
+  "label": "Autism",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "675",
+  "label": "Automatons",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "245",
+  "label": "Average-looking Protagonist",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "985",
+  "label": "Award-winning Work",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "271",
+  "label": "Awkward Protagonist",
+  "letter": "A",
+  "dupes": 1
+ },
+ {
+  "id": "579",
+  "label": "Based on a Movie",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "1118",
+  "label": "Based on a Song",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "671",
+  "label": "Based on a TV Show",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "1052",
+  "label": "Based on an Anime",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "226",
+  "label": "Basketball",
+  "letter": "B",
+  "dupes": 3
+ },
+ {
+  "id": "416",
+  "label": "Battle Academy",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "211",
+  "label": "Battle Competition",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "190",
+  "label": "BDSM",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "57",
+  "label": "Beast Companions",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "8",
+  "label": "Beastkin",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "58",
+  "label": "Beasts",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "21",
+  "label": "Beautiful Female Lead",
+  "letter": "B",
+  "dupes": 5
+ },
+ {
+  "id": "628",
+  "label": "Bestiality",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "40",
+  "label": "Betrayal",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "79",
+  "label": "Bickering Couple",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "473",
+  "label": "Biochip",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "813",
+  "label": "Bisexual Protagonist",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "38",
+  "label": "Black Belly",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "171",
+  "label": "Blackmail",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "379",
+  "label": "Blacksmith",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "1123",
+  "label": "Bleach",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "676",
+  "label": "Blind Dates",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "481",
+  "label": "Blind Protagonist",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "534",
+  "label": "Blood Manipulation",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "9",
+  "label": "Bloodlines",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "269",
+  "label": "Body Swap",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "246",
+  "label": "Body Tempering",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "980",
+  "label": "Body-double",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "439",
+  "label": "Bodyguards",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "337",
+  "label": "Books",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "659",
+  "label": "Bookworm",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "80",
+  "label": "Boss-Subordinate Relationship",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "396",
+  "label": "Brainwashing",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "974",
+  "label": "Breast Fetish",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "231",
+  "label": "Broken Engagement",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "521",
+  "label": "Brother Complex",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "570",
+  "label": "Brotherhood",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "1288",
+  "label": "BTTH",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "442",
+  "label": "Buddhism",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "134",
+  "label": "Bullying",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "60",
+  "label": "Business Management",
+  "letter": "B",
+  "dupes": 2
+ },
+ {
+  "id": "227",
+  "label": "Businessmen",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "763",
+  "label": "Butlers",
+  "letter": "B",
+  "dupes": 1
+ },
+ {
+  "id": "22",
+  "label": "Calm Protagonist",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "407",
+  "label": "Cannibalism",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "512",
+  "label": "Card Games",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "121",
+  "label": "Carefree Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "122",
+  "label": "Caring Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "222",
+  "label": "Cautious Protagonist",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "23",
+  "label": "Celebrities",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "61",
+  "label": "Character Growth",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "39",
+  "label": "Charismatic Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "520",
+  "label": "Charming Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "142",
+  "label": "Chat Rooms",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "62",
+  "label": "Cheats",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "260",
+  "label": "Chefs",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "393",
+  "label": "Child Abuse",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "491",
+  "label": "Child Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "81",
+  "label": "Childcare",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "197",
+  "label": "Childhood Friends",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "176",
+  "label": "Childhood Love",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "588",
+  "label": "Childhood Promise",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "123",
+  "label": "Childish Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "713",
+  "label": "Chuunibyou",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "327",
+  "label": "Clan Building",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "6438",
+  "label": "Classic",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "92",
+  "label": "Clever Protagonist",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "297",
+  "label": "Clingy Lover",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "644",
+  "label": "Clones",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "611",
+  "label": "Clubs",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "204",
+  "label": "Clumsy Love Interests",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "662",
+  "label": "Co-Workers",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "152",
+  "label": "Cohabitation",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "84",
+  "label": "Cold Love Interests",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "10",
+  "label": "Cold Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "749",
+  "label": "Collection of Short Stories",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "1454",
+  "label": "College/University",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "105",
+  "label": "Coma",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "154",
+  "label": "Comedic Undertone",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "722",
+  "label": "Coming of Age",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "253",
+  "label": "Complex Family Relationships",
+  "letter": "C",
+  "dupes": 3
+ },
+ {
+  "id": "445",
+  "label": "Conditional Power",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "232",
+  "label": "Confident Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "172",
+  "label": "Confinement",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "541",
+  "label": "Conflicting Loyalties",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "294",
+  "label": "Contracts",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "161",
+  "label": "Cooking",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "408",
+  "label": "Corruption",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "338",
+  "label": "Cosmic Wars",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "726",
+  "label": "Cosplay",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "153",
+  "label": "Couple Growth",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "594",
+  "label": "Court Official",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "683",
+  "label": "Cousins",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "290",
+  "label": "Cowardly Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "374",
+  "label": "Crafting",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "440",
+  "label": "Crime",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "173",
+  "label": "Criminals",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "155",
+  "label": "Cross-dressing",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "492",
+  "label": "Crossover",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "42",
+  "label": "Cruel Characters",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "741",
+  "label": "Cryostasis",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "63",
+  "label": "Cultivation",
+  "letter": "C",
+  "dupes": 4
+ },
+ {
+  "id": "164",
+  "label": "Cunning Protagonist",
+  "letter": "C",
+  "dupes": 3
+ },
+ {
+  "id": "261",
+  "label": "Curious Protagonist",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "528",
+  "label": "Curses",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "224",
+  "label": "Cute Children",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "124",
+  "label": "Cute Protagonist",
+  "letter": "C",
+  "dupes": 2
+ },
+ {
+  "id": "125",
+  "label": "Cute Story",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "3294",
+  "label": "Cyberpunk 2077",
+  "letter": "C",
+  "dupes": 1
+ },
+ {
+  "id": "380",
+  "label": "Dancers",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "1636",
+  "label": "Danmachi",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "417",
+  "label": "Dao Companion",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "583",
+  "label": "Dao Comprehension",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "444",
+  "label": "Daoism",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "319",
+  "label": "Dark",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "922",
+  "label": "Dark Fantasy",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "835",
+  "label": "DC Universe",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "723",
+  "label": "Dead Protagonist",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "194",
+  "label": "Death",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "64",
+  "label": "Death of Loved Ones",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "515",
+  "label": "Debts",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "247",
+  "label": "Delinquents",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "640",
+  "label": "Delusions",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "430",
+  "label": "Demi-Humans",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "218",
+  "label": "Demon Lord",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "1124",
+  "label": "Demon Slayer",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "395",
+  "label": "Demonic Cultivation Technique",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "219",
+  "label": "Demons",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "65",
+  "label": "Dense Protagonist",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "156",
+  "label": "Depictions of Cruelty",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "303",
+  "label": "Depression",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "342",
+  "label": "Destiny",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "1347",
+  "label": "Detective Conan",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "180",
+  "label": "Detectives",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "165",
+  "label": "Determined Protagonist",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "24",
+  "label": "Devoted Love Interests",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "6330",
+  "label": "Devouring",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "136",
+  "label": "Different Social Status",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "1767",
+  "label": "Digimon",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "263",
+  "label": "Disabilities",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "504",
+  "label": "Discrimination",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "634",
+  "label": "Disfigurement",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "516",
+  "label": "Dishonest Protagonist",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "542",
+  "label": "Distrustful Protagonist",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "535",
+  "label": "Divination",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "984",
+  "label": "Divine Protection",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "44",
+  "label": "Divorce",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "3199",
+  "label": "DnD",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "25",
+  "label": "Doctors",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "414",
+  "label": "Domestic Affairs",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "26",
+  "label": "Doting Love Interests",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "177",
+  "label": "Doting Older Siblings",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "178",
+  "label": "Doting Parents",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "326",
+  "label": "Douluo Dalu",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "1309",
+  "label": "Dragon Ball",
+  "letter": "D",
+  "dupes": 5
+ },
+ {
+  "id": "308",
+  "label": "Dragon Riders",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "309",
+  "label": "Dragon Slayers",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "310",
+  "label": "Dragons",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "494",
+  "label": "Dreams",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "543",
+  "label": "Drugs",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "506",
+  "label": "Druids",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "742",
+  "label": "Dungeon Master",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "632",
+  "label": "Dungeons",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "311",
+  "label": "Dwarfs",
+  "letter": "D",
+  "dupes": 2
+ },
+ {
+  "id": "618",
+  "label": "Dystopia",
+  "letter": "D",
+  "dupes": 1
+ },
+ {
+  "id": "275",
+  "label": "e-Sports",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "2",
+  "label": "Early Romance",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "712",
+  "label": "Earth Invasion",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "434",
+  "label": "Easy Going Life",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "505",
+  "label": "Economics",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "575",
+  "label": "Editors",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "397",
+  "label": "Eidetic Memory",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "776",
+  "label": "Elderly Protagonist",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "398",
+  "label": "Elemental Magic",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "354",
+  "label": "Elves",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "381",
+  "label": "Emotionally Weak Protagonist",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "437",
+  "label": "Empires",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "655",
+  "label": "Engagement",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "697",
+  "label": "Engineer",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "577",
+  "label": "Enlightenment",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "157",
+  "label": "Episodic",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "343",
+  "label": "Eunuch",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "457",
+  "label": "European Ambience",
+  "letter": "E",
+  "dupes": 3
+ },
+ {
+  "id": "333",
+  "label": "Evil Gods",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "66",
+  "label": "Evil Organizations",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "382",
+  "label": "Evil Protagonist",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "529",
+  "label": "Evil Religions",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "339",
+  "label": "Evolution",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "1036",
+  "label": "Exhibitionism",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "468",
+  "label": "Exorcism",
+  "letter": "E",
+  "dupes": 1
+ },
+ {
+  "id": "351",
+  "label": "Eye Powers",
+  "letter": "E",
+  "dupes": 2
+ },
+ {
+  "id": "584",
+  "label": "Fairies",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "1023",
+  "label": "Fairy Tail",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "596",
+  "label": "Fallen Angels",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "524",
+  "label": "Fallen Nobility",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "291",
+  "label": "Familial Love",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "780",
+  "label": "Familiars",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "148",
+  "label": "Family",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "459",
+  "label": "Family Business",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "248",
+  "label": "Family Conflict",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "627",
+  "label": "Famous Parents",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "383",
+  "label": "Famous Protagonist",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "710",
+  "label": "Fanaticism",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "362",
+  "label": "Fantasy Creatures",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "277",
+  "label": "Fantasy World",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "229",
+  "label": "Farming",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "67",
+  "label": "Fast Cultivation",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "68",
+  "label": "Fast Learner",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "358",
+  "label": "Fat Protagonist",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "359",
+  "label": "Fat to Fit",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "272",
+  "label": "Fated Lovers",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "639",
+  "label": "Fearless Protagonist",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "629",
+  "label": "Fellatio",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "557",
+  "label": "Female Master",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "18",
+  "label": "Female Protagonist",
+  "letter": "F",
+  "dupes": 3
+ },
+ {
+  "id": "734",
+  "label": "Female to Male",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "581",
+  "label": "Feng Shui",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "166",
+  "label": "Firearms",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "207",
+  "label": "First Love",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "192",
+  "label": "First-time Intercourse",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "135",
+  "label": "Flashbacks",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "745",
+  "label": "Fleet Battles",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "623",
+  "label": "Folklore",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "352",
+  "label": "Football",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "110",
+  "label": "Forced into a Relationship",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "317",
+  "label": "Forced Living Arrangements",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "111",
+  "label": "Forced Marriage",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "384",
+  "label": "Forgetful Protagonist",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "478",
+  "label": "Former Hero",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "256",
+  "label": "Fox Spirits",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "737",
+  "label": "Friends Become Enemies",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "421",
+  "label": "Friendship",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "69",
+  "label": "Fujoshi",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "193",
+  "label": "Futanari",
+  "letter": "F",
+  "dupes": 1
+ },
+ {
+  "id": "126",
+  "label": "Futuristic Setting",
+  "letter": "F",
+  "dupes": 2
+ },
+ {
+  "id": "1109",
+  "label": "Galge",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "661",
+  "label": "Gambling",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "70",
+  "label": "Game Elements",
+  "letter": "G",
+  "dupes": 3
+ },
+ {
+  "id": "3422",
+  "label": "Game of Thrones",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "392",
+  "label": "Game Ranking System",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "170",
+  "label": "Gamers",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "321",
+  "label": "Gangs",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "5673",
+  "label": "Gao Wu",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "214",
+  "label": "Gate to Another World",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "609",
+  "label": "Genderless Protagonist",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "233",
+  "label": "Generals",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "312",
+  "label": "Genetic Modifications",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "215",
+  "label": "Genies",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "216",
+  "label": "Genius Protagonist",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "1321",
+  "label": "Genshin Impact",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "158",
+  "label": "Ghosts",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "981",
+  "label": "Gladiators",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "616",
+  "label": "Goblins",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "298",
+  "label": "God Protagonist",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "668",
+  "label": "God-human Relationship",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "278",
+  "label": "Goddesses",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "356",
+  "label": "Godly Powers",
+  "letter": "G",
+  "dupes": 2
+ },
+ {
+  "id": "234",
+  "label": "Gods",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "778",
+  "label": "Golems",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "94",
+  "label": "Gore",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "1016",
+  "label": "Grave Keepers",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "544",
+  "label": "Grinding",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "264",
+  "label": "Guardian Relationship",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "631",
+  "label": "Guilds",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "95",
+  "label": "Gunfighters",
+  "letter": "G",
+  "dupes": 1
+ },
+ {
+  "id": "367",
+  "label": "Hackers",
+  "letter": "H",
+  "dupes": 2
+ },
+ {
+  "id": "265",
+  "label": "Half-human Protagonist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "699",
+  "label": "Handjob",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "11",
+  "label": "Handsome Male Lead",
+  "letter": "H",
+  "dupes": 4
+ },
+ {
+  "id": "127",
+  "label": "Hard-Working Protagonist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "37",
+  "label": "Harem-seeking Protagonist",
+  "letter": "H",
+  "dupes": 2
+ },
+ {
+  "id": "237",
+  "label": "Harry Potter",
+  "letter": "H",
+  "dupes": 2
+ },
+ {
+  "id": "625",
+  "label": "Harsh Training",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "112",
+  "label": "Hated Protagonist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "566",
+  "label": "Healers",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "106",
+  "label": "Heartwarming",
+  "letter": "H",
+  "dupes": 2
+ },
+ {
+  "id": "582",
+  "label": "Heaven",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "128",
+  "label": "Heavenly Tribulation",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "651",
+  "label": "Hell",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "612",
+  "label": "Helpful Protagonist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "779",
+  "label": "Herbalist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "536",
+  "label": "Heroes",
+  "letter": "H",
+  "dupes": 2
+ },
+ {
+  "id": "969",
+  "label": "Heterochromia",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "259",
+  "label": "Hidden Abilities",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "1039",
+  "label": "Highschool DxD",
+  "letter": "H",
+  "dupes": 2
+ },
+ {
+  "id": "1196",
+  "label": "Hollywood",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "648",
+  "label": "Honest Protagonist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "5779",
+  "label": "HongHuangB",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "2516",
+  "label": "HonghuangN",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "4496",
+  "label": "HonghuangS",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "5286",
+  "label": "HongHuangz",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "6483",
+  "label": "Hongmeng",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "636",
+  "label": "Hospital",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "300",
+  "label": "Hot-blooded Protagonist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "413",
+  "label": "Human Experimentation",
+  "letter": "H",
+  "dupes": 2
+ },
+ {
+  "id": "490",
+  "label": "Human Weapon",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "159",
+  "label": "Human-Nonhuman Relationship",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "129",
+  "label": "Humanoid Protagonist",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "1338",
+  "label": "Hunter x Hunter",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "531",
+  "label": "Hunters",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "377",
+  "label": "Hypnotism",
+  "letter": "H",
+  "dupes": 1
+ },
+ {
+  "id": "344",
+  "label": "Identity Crisis",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "1077",
+  "label": "Immortal",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "235",
+  "label": "Immortals",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "238",
+  "label": "Imperial Harem",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "179",
+  "label": "Incest",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "1019",
+  "label": "Incubus",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "568",
+  "label": "Indecisive Protagonist",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "641",
+  "label": "Industrialization",
+  "letter": "I",
+  "dupes": 2
+ },
+ {
+  "id": "431",
+  "label": "Inferiority Complex",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "426",
+  "label": "Inheritance",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "744",
+  "label": "Inscriptions",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "313",
+  "label": "Insects",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "1745",
+  "label": "Interconnected Storylines",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "27",
+  "label": "Interdimensional Travel",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "680",
+  "label": "Introverted Protagonist",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "496",
+  "label": "Investigations",
+  "letter": "I",
+  "dupes": 2
+ },
+ {
+  "id": "6217",
+  "label": "Invisibility",
+  "letter": "I",
+  "dupes": 1
+ },
+ {
+  "id": "71",
+  "label": "Jack of All Trades",
+  "letter": "J",
+  "dupes": 1
+ },
+ {
+  "id": "258",
+  "label": "Jealousy",
+  "letter": "J",
+  "dupes": 1
+ },
+ {
+  "id": "603",
+  "label": "Jiangshi",
+  "letter": "J",
+  "dupes": 1
+ },
+ {
+  "id": "2882",
+  "label": "JoJo\u2019s Bizarre Adventure",
+  "letter": "J",
+  "dupes": 1
+ },
+ {
+  "id": "1326",
+  "label": "Journey to the West",
+  "letter": "J",
+  "dupes": 1
+ },
+ {
+  "id": "1127",
+  "label": "Jujutsu Kaisen",
+  "letter": "J",
+  "dupes": 1
+ },
+ {
+  "id": "509",
+  "label": "Kidnappings",
+  "letter": "K",
+  "dupes": 1
+ },
+ {
+  "id": "131",
+  "label": "Kind Love Interests",
+  "letter": "K",
+  "dupes": 1
+ },
+ {
+  "id": "340",
+  "label": "Kingdom Building",
+  "letter": "K",
+  "dupes": 1
+ },
+ {
+  "id": "181",
+  "label": "Kingdoms",
+  "letter": "K",
+  "dupes": 1
+ },
+ {
+  "id": "208",
+  "label": "Knights",
+  "letter": "K",
+  "dupes": 2
+ },
+ {
+  "id": "708",
+  "label": "Kuudere",
+  "letter": "K",
+  "dupes": 1
+ },
+ {
+  "id": "160",
+  "label": "Lack of Common Sense",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "133",
+  "label": "Language Barrier",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "249",
+  "label": "Late Romance",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "548",
+  "label": "Lawyers",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "441",
+  "label": "Lazy Protagonist",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "375",
+  "label": "Leadership",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "849",
+  "label": "League of Legends",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "607",
+  "label": "Legends",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "201",
+  "label": "Level System",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "773",
+  "label": "Library",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "1721",
+  "label": "Life Script",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "470",
+  "label": "Limited Lifespan",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "883",
+  "label": "Live Streaming",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "474",
+  "label": "Living Alone",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "576",
+  "label": "Loli",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "6211",
+  "label": "Loneliness",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "585",
+  "label": "Loner Protagonist",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "412",
+  "label": "Long Separations",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "273",
+  "label": "Long-distance Relationship",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "895",
+  "label": "Lord of the Mysteries",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "330",
+  "label": "Lost Civilizations",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "573",
+  "label": "Lottery",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "168",
+  "label": "Love at First Sight",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "19",
+  "label": "Love Interest Falls in Love First",
+  "letter": "L",
+  "dupes": 3
+ },
+ {
+  "id": "610",
+  "label": "Love Rivals",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "485",
+  "label": "Love Triangles",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "502",
+  "label": "Lovers Reunited",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "328",
+  "label": "Low-key Protagonist",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "507",
+  "label": "Loyal Subordinates",
+  "letter": "L",
+  "dupes": 1
+ },
+ {
+  "id": "368",
+  "label": "Lucky Protagonist",
+  "letter": "L",
+  "dupes": 2
+ },
+ {
+  "id": "182",
+  "label": "Magic",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "314",
+  "label": "Magic Beasts",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "72",
+  "label": "Magic Formations",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "1744",
+  "label": "Magical Girls",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "73",
+  "label": "Magical Space",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "608",
+  "label": "Magical Technology",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "649",
+  "label": "Maids",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "12",
+  "label": "Male Protagonist",
+  "letter": "M",
+  "dupes": 6
+ },
+ {
+  "id": "480",
+  "label": "Male to Female",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "28",
+  "label": "Male Yandere",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "642",
+  "label": "Management",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "809",
+  "label": "Mangaka",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "597",
+  "label": "Manipulative Characters",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "96",
+  "label": "Manly Gay Couple",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "85",
+  "label": "Marriage",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "489",
+  "label": "Marriage of Convenience",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "394",
+  "label": "Martial Spirits",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "537",
+  "label": "Marvel",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "45",
+  "label": "Masochistic Characters",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "304",
+  "label": "Master-Disciple Relationship",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "361",
+  "label": "Master-Servant Relationship",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "733",
+  "label": "Masturbation",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "686",
+  "label": "Matriarchy",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "97",
+  "label": "Mature Protagonist",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "299",
+  "label": "Medical Knowledge",
+  "letter": "M",
+  "dupes": 3
+ },
+ {
+  "id": "429",
+  "label": "Medieval",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "167",
+  "label": "Mercenaries",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "527",
+  "label": "Merchants",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "86",
+  "label": "Military",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "621",
+  "label": "Mind Break",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "389",
+  "label": "Mind Control",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "6246",
+  "label": "Minecraft",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "1343",
+  "label": "Mismatched Couple",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "113",
+  "label": "Misunderstandings",
+  "letter": "M",
+  "dupes": 4
+ },
+ {
+  "id": "202",
+  "label": "MMORPG",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "443",
+  "label": "Mob Protagonist",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "657",
+  "label": "Models",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "3",
+  "label": "Modern Day",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "307",
+  "label": "Modern Knowledge",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "82",
+  "label": "Money Grubber",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "569",
+  "label": "Monster Girls",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "1151",
+  "label": "Monster Society",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "74",
+  "label": "Monster Tamer",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "230",
+  "label": "Monsters",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "3150",
+  "label": "Mortal Flow",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "292",
+  "label": "Movies",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "257",
+  "label": "Mpreg",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "387",
+  "label": "Multiple Identities",
+  "letter": "M",
+  "dupes": 3
+ },
+ {
+  "id": "20",
+  "label": "Multiple Personalities",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "279",
+  "label": "Multiple POV",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "501",
+  "label": "Multiple Protagonists",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "615",
+  "label": "Multiple Timelines",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "293",
+  "label": "Multiple Transported Individuals",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "345",
+  "label": "Murders",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "186",
+  "label": "Music",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "320",
+  "label": "Mutated Creatures",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "418",
+  "label": "Mutations",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "736",
+  "label": "Mute Character",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "185",
+  "label": "Mystery Solving",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "427",
+  "label": "Mythical Beasts",
+  "letter": "M",
+  "dupes": 2
+ },
+ {
+  "id": "484",
+  "label": "Mythology",
+  "letter": "M",
+  "dupes": 1
+ },
+ {
+  "id": "75",
+  "label": "Naive Protagonist",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "469",
+  "label": "Narcissistic Protagonist",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "335",
+  "label": "Naruto",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "305",
+  "label": "Nationalism",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "76",
+  "label": "Near-Death Experience",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "422",
+  "label": "Necromancer",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "645",
+  "label": "Neet",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "77",
+  "label": "Netorare",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "78",
+  "label": "Netori",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "346",
+  "label": "Nightmares",
+  "letter": "N",
+  "dupes": 2
+ },
+ {
+  "id": "460",
+  "label": "Ninjas",
+  "letter": "N",
+  "dupes": 2
+ },
+ {
+  "id": "280",
+  "label": "Nobles",
+  "letter": "N",
+  "dupes": 2
+ },
+ {
+  "id": "143",
+  "label": "Non-humanoid Protagonist",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "6212",
+  "label": "Non-linear Storytelling",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "972",
+  "label": "Nudity",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "637",
+  "label": "Nurses",
+  "letter": "N",
+  "dupes": 1
+ },
+ {
+  "id": "205",
+  "label": "Obsessive Love",
+  "letter": "O",
+  "dupes": 1
+ },
+ {
+  "id": "517",
+  "label": "Office Romance",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "364",
+  "label": "Older Love Interests",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "301",
+  "label": "Omegaverse",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "336",
+  "label": "One Piece",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "1063",
+  "label": "One Punch Man",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "638",
+  "label": "Online Romance",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "720",
+  "label": "Orcs",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "174",
+  "label": "Organized Crime",
+  "letter": "O",
+  "dupes": 1
+ },
+ {
+  "id": "428",
+  "label": "Orphans",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "472",
+  "label": "Otaku",
+  "letter": "O",
+  "dupes": 1
+ },
+ {
+  "id": "1580",
+  "label": "Otome Game",
+  "letter": "O",
+  "dupes": 2
+ },
+ {
+  "id": "991",
+  "label": "Outcasts",
+  "letter": "O",
+  "dupes": 1
+ },
+ {
+  "id": "409",
+  "label": "Outer Space",
+  "letter": "O",
+  "dupes": 1
+ },
+ {
+  "id": "1184",
+  "label": "Overlord",
+  "letter": "O",
+  "dupes": 1
+ },
+ {
+  "id": "41",
+  "label": "Overpowered Protagonist",
+  "letter": "O",
+  "dupes": 6
+ },
+ {
+  "id": "717",
+  "label": "Overprotective Siblings",
+  "letter": "O",
+  "dupes": 1
+ },
+ {
+  "id": "1186",
+  "label": "Pacifist Protagonist",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "752",
+  "label": "Paizuri",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "458",
+  "label": "Parallel Worlds",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "331",
+  "label": "Parasites",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "650",
+  "label": "Parent Complex",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "620",
+  "label": "Parody",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "268",
+  "label": "Part-Time Job",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "98",
+  "label": "Past Plays a Big Role",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "114",
+  "label": "Past Trauma",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "274",
+  "label": "Persistent Love Interests",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "137",
+  "label": "Personality Changes",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "281",
+  "label": "Perverted Protagonist",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "107",
+  "label": "Pets",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "689",
+  "label": "Pharmacist",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "774",
+  "label": "Philosophical",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "236",
+  "label": "Phoenixes",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "705",
+  "label": "Photography",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "399",
+  "label": "Pill Based Cultivation",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "400",
+  "label": "Pill Concocting",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "1592",
+  "label": "Pilots",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "546",
+  "label": "Pirates",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "653",
+  "label": "Playboys",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "714",
+  "label": "Playful Protagonist",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "731",
+  "label": "Poetry",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "370",
+  "label": "Poisons",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "587",
+  "label": "Pokemon",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "419",
+  "label": "Police",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "684",
+  "label": "Polite Protagonist",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "43",
+  "label": "Politics",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "669",
+  "label": "Polyandry",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "282",
+  "label": "Polygamy",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "522",
+  "label": "Poor Protagonist",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "132",
+  "label": "Poor to Rich",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "592",
+  "label": "Popular Love Interests",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "605",
+  "label": "Possession",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "4",
+  "label": "Possessive Characters",
+  "letter": "P",
+  "dupes": 3
+ },
+ {
+  "id": "401",
+  "label": "Post-apocalyptic",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "47",
+  "label": "Power Couple",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "690",
+  "label": "Power Struggle",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "593",
+  "label": "Pragmatic Protagonist",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "724",
+  "label": "Precognition",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "83",
+  "label": "Pregnancy",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "250",
+  "label": "Pretend Lovers",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "138",
+  "label": "Previous Life Talent",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "1059",
+  "label": "Priestesses",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "707",
+  "label": "Priests",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "560",
+  "label": "Prison",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "423",
+  "label": "Proactive Protagonist",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "704",
+  "label": "Programmer",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "718",
+  "label": "Prophecies",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "447",
+  "label": "Prostitutes",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "715",
+  "label": "Psychic Powers",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "498",
+  "label": "Psychopaths",
+  "letter": "P",
+  "dupes": 1
+ },
+ {
+  "id": "4301",
+  "label": "Puppeteers",
+  "letter": "P",
+  "dupes": 2
+ },
+ {
+  "id": "719",
+  "label": "Quiet Characters",
+  "letter": "Q",
+  "dupes": 1
+ },
+ {
+  "id": "198",
+  "label": "Quirky Characters",
+  "letter": "Q",
+  "dupes": 1
+ },
+ {
+  "id": "646",
+  "label": "R-15",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "5058",
+  "label": "R18",
+  "letter": "R",
+  "dupes": 2
+ },
+ {
+  "id": "604",
+  "label": "Race Change",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "13",
+  "label": "Racism",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "402",
+  "label": "Rape",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "6",
+  "label": "Rape Victim Becomes Lover",
+  "letter": "R",
+  "dupes": 2
+ },
+ {
+  "id": "6417",
+  "label": "Reality-Game Fusion",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "757",
+  "label": "Rebellion",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "139",
+  "label": "Rebirth",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "831",
+  "label": "Reborn",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "3835",
+  "label": "Regression",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "706",
+  "label": "Religions",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "545",
+  "label": "Reporters",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "2887",
+  "label": "Resident Evil",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "635",
+  "label": "Restaurant",
+  "letter": "R",
+  "dupes": 2
+ },
+ {
+  "id": "390",
+  "label": "Resurrection",
+  "letter": "R",
+  "dupes": 2
+ },
+ {
+  "id": "695",
+  "label": "Returning from Another World",
+  "letter": "R",
+  "dupes": 2
+ },
+ {
+  "id": "225",
+  "label": "Revenge",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "378",
+  "label": "Reverse Harem",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "571",
+  "label": "Reverse Rape",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "740",
+  "label": "Reversible Couple",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "743",
+  "label": "Rich to Poor",
+  "letter": "R",
+  "dupes": 2
+ },
+ {
+  "id": "630",
+  "label": "Righteous Protagonist",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "687",
+  "label": "Rivalry",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "768",
+  "label": "Romance",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "14",
+  "label": "Romantic Subplot",
+  "letter": "R",
+  "dupes": 3
+ },
+ {
+  "id": "772",
+  "label": "Roommates",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "35",
+  "label": "Royalty",
+  "letter": "R",
+  "dupes": 2
+ },
+ {
+  "id": "15",
+  "label": "Ruthless Protagonist",
+  "letter": "R",
+  "dupes": 1
+ },
+ {
+  "id": "622",
+  "label": "Sadistic Characters",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "598",
+  "label": "Saints",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "1025",
+  "label": "Samurai",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "682",
+  "label": "Saving the World",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "405",
+  "label": "Schemes And Conspiracies",
+  "letter": "S",
+  "dupes": 3
+ },
+ {
+  "id": "486",
+  "label": "Scientists",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "284",
+  "label": "Sealed Power",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "99",
+  "label": "Second Chance",
+  "letter": "S",
+  "dupes": 3
+ },
+ {
+  "id": "266",
+  "label": "Secret Crush",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "285",
+  "label": "Secret Identity",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "652",
+  "label": "Secret Organizations",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "1021",
+  "label": "Secret Relationship",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "552",
+  "label": "Secretive Protagonist",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "286",
+  "label": "Secrets",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "692",
+  "label": "Sect Development",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "732",
+  "label": "Seduction",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "633",
+  "label": "Seeing Things Other Humans Can't",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "254",
+  "label": "Selfish Protagonist",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "558",
+  "label": "Selfless Protagonist",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "500",
+  "label": "Seme Protagonist",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "970",
+  "label": "Sentient Objects",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "771",
+  "label": "Sentimental Protagonist",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "550",
+  "label": "Serial Killers",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "665",
+  "label": "Servants",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "691",
+  "label": "Seven Deadly Sins",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "475",
+  "label": "Sex Slaves",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "175",
+  "label": "Sexual Abuse",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "748",
+  "label": "Sexual Cultivation Technique",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "203",
+  "label": "Shameless Protagonist",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "267",
+  "label": "Shapeshifters",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "296",
+  "label": "Sharp-tongued Characters",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "559",
+  "label": "Short Story",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "493",
+  "label": "Shota",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "595",
+  "label": "Shoujo-Ai Subplot",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "530",
+  "label": "Shounen-Ai Subplot",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "108",
+  "label": "Showbiz",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "482",
+  "label": "Shy Characters",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "46",
+  "label": "Sibling Rivalry",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "48",
+  "label": "Siblings",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "448",
+  "label": "Siblings Not Related by Blood",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "600",
+  "label": "Sickly Characters",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "934",
+  "label": "Sign-in",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "1172",
+  "label": "Simulator",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "187",
+  "label": "Singers",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "6340",
+  "label": "Single Female Lead",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "503",
+  "label": "Single Parent",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "709",
+  "label": "Sister Complex",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "403",
+  "label": "Skill Assimilation",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "508",
+  "label": "Skill Books",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "572",
+  "label": "Skill Creation",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "730",
+  "label": "Slave Harem",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "540",
+  "label": "Slave Protagonist",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "287",
+  "label": "Slaves",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "487",
+  "label": "Slow Growth at Start",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "144",
+  "label": "Slow Romance",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "513",
+  "label": "Smart Couple",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "755",
+  "label": "Social Outcasts",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "455",
+  "label": "Soldiers",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "404",
+  "label": "Soul Power",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "449",
+  "label": "Souls",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "721",
+  "label": "Spatial Manipulation",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "578",
+  "label": "Spear Wielder",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "347",
+  "label": "Special Abilities",
+  "letter": "S",
+  "dupes": 3
+ },
+ {
+  "id": "251",
+  "label": "Spies",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "654",
+  "label": "Spirit Advisor",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "450",
+  "label": "Spirit Users",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "555",
+  "label": "Spirits",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "2884",
+  "label": "Stand User",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "1302",
+  "label": "Star Wars",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "896",
+  "label": "Steampunk",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "188",
+  "label": "Stockholm Syndrome",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "729",
+  "label": "Stoic Characters",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "322",
+  "label": "Store Owner",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "643",
+  "label": "Straight Seme",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "438",
+  "label": "Straight Uke",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "150",
+  "label": "Strategic Battles",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "451",
+  "label": "Strategist",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "371",
+  "label": "Strength-based Social Hierarchy",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "30",
+  "label": "Strong Love Interests",
+  "letter": "S",
+  "dupes": 2
+ },
+ {
+  "id": "118",
+  "label": "Strong to Stronger",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "565",
+  "label": "Stubborn Protagonist",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "365",
+  "label": "Student-Teacher Relationship",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "681",
+  "label": "Succubus",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "551",
+  "label": "Sudden Strength Gain",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "660",
+  "label": "Sudden Wealth",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "775",
+  "label": "Suicides",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "602",
+  "label": "Summoned Hero",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "315",
+  "label": "Summoning Magic",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "100",
+  "label": "Survival",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "514",
+  "label": "Survival Game",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "1339",
+  "label": "Swallowed Star",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "288",
+  "label": "Sword And Magic",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "325",
+  "label": "Sword Wielder",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "119",
+  "label": "System",
+  "letter": "S",
+  "dupes": 1
+ },
+ {
+  "id": "252",
+  "label": "Teachers",
+  "letter": "T",
+  "dupes": 2
+ },
+ {
+  "id": "101",
+  "label": "Teamwork",
+  "letter": "T",
+  "dupes": 2
+ },
+ {
+  "id": "488",
+  "label": "Technological Gap",
+  "letter": "T",
+  "dupes": 2
+ },
+ {
+  "id": "1020",
+  "label": "Tentacles",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "658",
+  "label": "Terminal Illness",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "1725",
+  "label": "Territory Management",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "767",
+  "label": "Terrorists",
+  "letter": "T",
+  "dupes": 2
+ },
+ {
+  "id": "420",
+  "label": "Thieves",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "1356",
+  "label": "Three Kingdoms",
+  "letter": "T",
+  "dupes": 3
+ },
+ {
+  "id": "1042",
+  "label": "Threesome",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "476",
+  "label": "Thriller",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "702",
+  "label": "Time Loop",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "672",
+  "label": "Time Manipulation",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "777",
+  "label": "Time Paradox",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "410",
+  "label": "Time Skip",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "199",
+  "label": "Time Travel",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "463",
+  "label": "Timid Protagonist",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "466",
+  "label": "Tomboyish Female Lead",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "728",
+  "label": "Torture",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "140",
+  "label": "Tragic Past",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "109",
+  "label": "Transformation Ability",
+  "letter": "T",
+  "dupes": 3
+ },
+ {
+  "id": "32",
+  "label": "Transmigration",
+  "letter": "T",
+  "dupes": 10
+ },
+ {
+  "id": "525",
+  "label": "Transplanted Memories",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "348",
+  "label": "Trap",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "465",
+  "label": "Tribal Society",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "452",
+  "label": "Trickster",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "349",
+  "label": "Tsundere",
+  "letter": "T",
+  "dupes": 2
+ },
+ {
+  "id": "196",
+  "label": "Twins",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "499",
+  "label": "Twisted Personality",
+  "letter": "T",
+  "dupes": 1
+ },
+ {
+  "id": "739",
+  "label": "Ugly Protagonist",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "483",
+  "label": "Ugly to Beautiful",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "141",
+  "label": "Unconditional Love",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "4345",
+  "label": "Undead Protagonist",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "580",
+  "label": "Underestimated Protagonist",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "323",
+  "label": "Unique Cultivation Technique",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "1530",
+  "label": "Unlimited Flow",
+  "letter": "U",
+  "dupes": 2
+ },
+ {
+  "id": "432",
+  "label": "Unlucky Protagonist",
+  "letter": "U",
+  "dupes": 2
+ },
+ {
+  "id": "456",
+  "label": "Unreliable Narrator",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "561",
+  "label": "Unrequited Love",
+  "letter": "U",
+  "dupes": 1
+ },
+ {
+  "id": "16",
+  "label": "Vampires",
+  "letter": "V",
+  "dupes": 2
+ },
+ {
+  "id": "1222",
+  "label": "Versatile Mage",
+  "letter": "V",
+  "dupes": 1
+ },
+ {
+  "id": "538",
+  "label": "Villainess Noble Girls",
+  "letter": "V",
+  "dupes": 3
+ },
+ {
+  "id": "93",
+  "label": "Virtual Reality",
+  "letter": "V",
+  "dupes": 1
+ },
+ {
+  "id": "549",
+  "label": "Voice Actors",
+  "letter": "V",
+  "dupes": 2
+ },
+ {
+  "id": "1187",
+  "label": "War Records",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "6207",
+  "label": "Warhammer",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "151",
+  "label": "Wars",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "477",
+  "label": "Weak Protagonist",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "17",
+  "label": "Weak to Strong",
+  "letter": "W",
+  "dupes": 2
+ },
+ {
+  "id": "7",
+  "label": "Wealthy Characters",
+  "letter": "W",
+  "dupes": 4
+ },
+ {
+  "id": "765",
+  "label": "Werebeasts",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "562",
+  "label": "Wishes",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "647",
+  "label": "Witches",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "316",
+  "label": "Wizards",
+  "letter": "W",
+  "dupes": 2
+ },
+ {
+  "id": "33",
+  "label": "World Hopping",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "332",
+  "label": "World Travel",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "679",
+  "label": "World Tree",
+  "letter": "W",
+  "dupes": 1
+ },
+ {
+  "id": "406",
+  "label": "Writers",
+  "letter": "W",
+  "dupes": 2
+ },
+ {
+  "id": "510",
+  "label": "Yandere",
+  "letter": "Y",
+  "dupes": 1
+ },
+ {
+  "id": "747",
+  "label": "Younger Brothers",
+  "letter": "Y",
+  "dupes": 1
+ },
+ {
+  "id": "769",
+  "label": "Younger Love Interests",
+  "letter": "Y",
+  "dupes": 1
+ },
+ {
+  "id": "563",
+  "label": "Younger Sisters",
+  "letter": "Y",
+  "dupes": 1
+ },
+ {
+  "id": "1085",
+  "label": "Yu-Gi-Oh!",
+  "letter": "Y",
+  "dupes": 3
+ },
+ {
+  "id": "102",
+  "label": "Zombies",
+  "letter": "Z",
+  "dupes": 2
+ }
+]
